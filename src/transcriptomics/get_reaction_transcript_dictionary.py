@@ -1,3 +1,4 @@
+import numpy as np
 # convert a reaction's gpr to a set (connected by 'and' relationship) of gene sets (connected by 'or' relationships)
 def get_gene_sets(gene_reaction_rule):
     # split the gpr by "and"
