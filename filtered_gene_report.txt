@@ -1,0 +1,1752 @@
+================================================================================
+Analysis: Comparisons vs. EBY
+Filtering for genes with |log2 Fold Change| > 5 AND p-value > 0.05
+================================================================================
+
+--- Comparison Group: GNSR / EBY ---
+  Gene: jgi|Sacce1|1011|YDL007C-A
+    - log2 Fold Change: 12.39
+    - p-value: 0.3561
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3249|YJL182C
+    - log2 Fold Change: 11.14
+    - p-value: 0.1526
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|850|YDL159W-A
+    - log2 Fold Change: 10.97
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+  Gene: jgi|Sacce1|5466|YNR077C
+    - log2 Fold Change: 10.77
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4013|YLL006W-A
+    - log2 Fold Change: 10.55
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|463|YBR200W-A
+    - log2 Fold Change: 10.40
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6436|YPR074W-A
+    - log2 Fold Change: 10.35
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1671|YIL102C
+    - log2 Fold Change: 9.55
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|574|YCL076W
+    - log2 Fold Change: 8.46
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6054|YOR387C
+    - log2 Fold Change: -6.27
+    - p-value: 0.2790
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2883|YHL050W-A
+    - log2 Fold Change: -7.39
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6337|YPL021W
+    - log2 Fold Change: -7.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) ECM23, SRD2; Ecm23p
+
+  Gene: jgi|Sacce1|111|YAR066W
+    - log2 Fold Change: -7.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2688|YGR114C
+    - log2 Fold Change: -7.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|110|YAR064W
+    - log2 Fold Change: -8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5031|YMR326C
+    - log2 Fold Change: -8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6041|YOR376W
+    - log2 Fold Change: -8.23
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5032|YNL339C
+    - log2 Fold Change: -8.52
+    - p-value: 0.1732
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YRF1-6, YRF1; Y' element ATP-dependent helicase protein 1 copy 6
+
+  Gene: jgi|Sacce1|2807|YGR226C
+    - log2 Fold Change: -8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5372|YNL013C
+    - log2 Fold Change: -9.06
+    - p-value: 0.1898
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4943|YMR247W-A
+    - log2 Fold Change: -9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|112|YAR068W
+    - log2 Fold Change: -9.23
+    - p-value: 0.1885
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6360|YPR002C-A
+    - log2 Fold Change: -9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|68|YAL016C-B
+    - log2 Fold Change: -9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3191|YHR213W-B
+    - log2 Fold Change: -9.58
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4843|YMR158W-B
+    - log2 Fold Change: -9.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|766|YDL240C-A
+    - log2 Fold Change: -9.70
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|483|YBR219C
+    - log2 Fold Change: -9.92
+    - p-value: 0.2366
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5975|YOR314W
+    - log2 Fold Change: -10.23
+    - p-value: 0.1946
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3419|YJL020W-A
+    - log2 Fold Change: -10.27
+    - p-value: 0.2581
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1223|YDR194W-A
+    - log2 Fold Change: -10.35
+    - p-value: 0.1963
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1754|YIL025C
+    - log2 Fold Change: -10.42
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6277|YPL080C
+    - log2 Fold Change: -10.45
+    - p-value: 0.2495
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5623|YOL019W-A
+    - log2 Fold Change: -10.55
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1721|YIL054W
+    - log2 Fold Change: -10.58
+    - p-value: 0.0575
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4566|YML099W-A
+    - log2 Fold Change: -10.73
+    - p-value: 0.0776
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|353|YBR103C-A
+    - log2 Fold Change: -10.73
+    - p-value: 0.1849
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3461|YJR023C
+    - log2 Fold Change: -10.87
+    - p-value: 0.1359
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3296|YJL136W-A
+    - log2 Fold Change: -10.94
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1749|YIL029W-A
+    - log2 Fold Change: -10.97
+    - p-value: 0.0878
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1655|YIL115W-A
+    - log2 Fold Change: -11.25
+    - p-value: 0.0870
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3234|YJL197C-A
+    - log2 Fold Change: -11.27
+    - p-value: 0.0555
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6470|YPR108W-A
+    - log2 Fold Change: -11.33
+    - p-value: 0.2426
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|845|YDL163W
+    - log2 Fold Change: -11.47
+    - p-value: 0.1184
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|489|YBR223W-A
+    - log2 Fold Change: -11.49
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3641|YKL183C-A
+    - log2 Fold Change: -11.92
+    - p-value: 0.0790
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5233|YNL144W-A
+    - log2 Fold Change: -12.07
+    - p-value: 0.2328
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4451|YLR399W-A
+    - log2 Fold Change: -12.07
+    - p-value: 0.1064
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+--- Comparison Group: GNUR / EBY ---
+  Gene: jgi|Sacce1|6524|YPR159C-A
+    - log2 Fold Change: 13.20
+    - p-value: 0.1870
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|463|YBR200W-A
+    - log2 Fold Change: 12.86
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3206|YJL222W-B
+    - log2 Fold Change: 12.20
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1011|YDL007C-A
+    - log2 Fold Change: 11.83
+    - p-value: 0.0987
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|486|YBR221W-A
+    - log2 Fold Change: 11.80
+    - p-value: 0.1852
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4969|YMR272W-B
+    - log2 Fold Change: 11.77
+    - p-value: 0.1853
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6436|YPR074W-A
+    - log2 Fold Change: 11.69
+    - p-value: 0.2047
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4013|YLL006W-A
+    - log2 Fold Change: 11.21
+    - p-value: 0.1842
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5466|YNR077C
+    - log2 Fold Change: 11.13
+    - p-value: 0.2032
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|387|YBR131C-A
+    - log2 Fold Change: 10.92
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1671|YIL102C
+    - log2 Fold Change: 10.81
+    - p-value: 0.2096
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|850|YDL159W-A
+    - log2 Fold Change: 10.67
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+  Gene: jgi|Sacce1|124|YBL108W
+    - log2 Fold Change: 9.45
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3430|YJL007C
+    - log2 Fold Change: 9.45
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1589|YDR543C
+    - log2 Fold Change: 9.38
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3954|YLL065W
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2742|YGR164W
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1831|YIR040C
+    - log2 Fold Change: 9.23
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1745|YIL032C
+    - log2 Fold Change: 9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|577|YCL068C
+    - log2 Fold Change: 7.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1376|YDR343C
+    - log2 Fold Change: 7.65
+    - p-value: 0.4226
+    - JGI Annotation: L-arabinose isomerase
+    - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT6; hexose transporter HXT6
+
+  Gene: jgi|Sacce1|576|YCL069W
+    - log2 Fold Change: 7.07
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) VBA3; basic amino acid transporter
+
+  Gene: jgi|Sacce1|6054|YOR387C
+    - log2 Fold Change: -6.54
+    - p-value: 0.2782
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2883|YHL050W-A
+    - log2 Fold Change: -7.39
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5031|YMR326C
+    - log2 Fold Change: -8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2305|YGL258W
+    - log2 Fold Change: -8.08
+    - p-value: 0.1725
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) VEL1; Vel1p
+
+  Gene: jgi|Sacce1|2807|YGR226C
+    - log2 Fold Change: -8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4221|YLR184W
+    - log2 Fold Change: -8.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4943|YMR247W-A
+    - log2 Fold Change: -9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|766|YDL240C-A
+    - log2 Fold Change: -9.70
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1035|YDR015C
+    - log2 Fold Change: -9.97
+    - p-value: 0.1853
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5975|YOR314W
+    - log2 Fold Change: -10.23
+    - p-value: 0.1946
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1223|YDR194W-A
+    - log2 Fold Change: -10.35
+    - p-value: 0.1963
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5623|YOL019W-A
+    - log2 Fold Change: -10.55
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2874|YGR291C
+    - log2 Fold Change: -10.61
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|114|YAR070C
+    - log2 Fold Change: -11.01
+    - p-value: 0.2650
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3234|YJL197C-A
+    - log2 Fold Change: -11.27
+    - p-value: 0.0555
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4624|YML047W-A
+    - log2 Fold Change: -12.91
+    - p-value: 0.1416
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4923|YMR230W-A
+    - log2 Fold Change: -14.37
+    - p-value: 0.0921
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+--- Comparison Group: GNHR / EBY ---
+  Gene: jgi|Sacce1|6524|YPR159C-A
+    - log2 Fold Change: 13.45
+    - p-value: 0.1078
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1671|YIL102C
+    - log2 Fold Change: 12.95
+    - p-value: 0.0669
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|486|YBR221W-A
+    - log2 Fold Change: 11.85
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4969|YMR272W-B
+    - log2 Fold Change: 11.50
+    - p-value: 0.1840
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|850|YDL159W-A
+    - log2 Fold Change: 11.21
+    - p-value: 0.1842
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+  Gene: jgi|Sacce1|5466|YNR077C
+    - log2 Fold Change: 10.79
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|463|YBR200W-A
+    - log2 Fold Change: 10.19
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3206|YJL222W-B
+    - log2 Fold Change: 10.10
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2163|YFL063W
+    - log2 Fold Change: 9.65
+    - p-value: 0.1863
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1011|YDL007C-A
+    - log2 Fold Change: 9.58
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1376|YDR343C
+    - log2 Fold Change: 9.38
+    - p-value: 0.2179
+    - JGI Annotation: L-arabinose isomerase
+    - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT6; hexose transporter HXT6
+
+  Gene: jgi|Sacce1|574|YCL076W
+    - log2 Fold Change: 8.65
+    - p-value: 0.1835
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2640|YGR067C
+    - log2 Fold Change: 7.01
+    - p-value: 0.0500
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|103|YAR035W
+    - log2 Fold Change: 6.66
+    - p-value: 0.0872
+    - JGI Annotation: Carnitine O-acetyltransferase
+    - KEGG Annotation: K00624 carnitine O-acetyltransferase [EC:2.3.1.7] | (RefSeq) YAT1; carnitine O-acetyltransferase YAT1
+
+  Gene: jgi|Sacce1|2624|YGR051C
+    - log2 Fold Change: 5.15
+    - p-value: 0.0753
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2305|YGL258W
+    - log2 Fold Change: -5.47
+    - p-value: 0.1775
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) VEL1; Vel1p
+
+  Gene: jgi|Sacce1|2883|YHL050W-A
+    - log2 Fold Change: -7.39
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5031|YMR326C
+    - log2 Fold Change: -8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|110|YAR064W
+    - log2 Fold Change: -8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5032|YNL339C
+    - log2 Fold Change: -8.52
+    - p-value: 0.1732
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YRF1-6, YRF1; Y' element ATP-dependent helicase protein 1 copy 6
+
+  Gene: jgi|Sacce1|2807|YGR226C
+    - log2 Fold Change: -8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4221|YLR184W
+    - log2 Fold Change: -8.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4943|YMR247W-A
+    - log2 Fold Change: -9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|68|YAL016C-B
+    - log2 Fold Change: -9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6360|YPR002C-A
+    - log2 Fold Change: -9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|766|YDL240C-A
+    - log2 Fold Change: -9.70
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5468|YOL166C
+    - log2 Fold Change: -9.70
+    - p-value: 0.1994
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1035|YDR015C
+    - log2 Fold Change: -9.97
+    - p-value: 0.1853
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1223|YDR194W-A
+    - log2 Fold Change: -10.35
+    - p-value: 0.1963
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6277|YPL080C
+    - log2 Fold Change: -10.45
+    - p-value: 0.2495
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1118|YDR095C
+    - log2 Fold Change: -10.55
+    - p-value: 0.0507
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5623|YOL019W-A
+    - log2 Fold Change: -10.55
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5366|YNL019C
+    - log2 Fold Change: -10.58
+    - p-value: 0.1365
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2874|YGR291C
+    - log2 Fold Change: -10.61
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|114|YAR070C
+    - log2 Fold Change: -11.01
+    - p-value: 0.2650
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2608|YGR035W-A
+    - log2 Fold Change: -11.08
+    - p-value: 0.1844
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3406|YJL032W
+    - log2 Fold Change: -11.10
+    - p-value: 0.1126
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5658|YOR011W-A
+    - log2 Fold Change: -11.10
+    - p-value: 0.1024
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3234|YJL197C-A
+    - log2 Fold Change: -11.27
+    - p-value: 0.0555
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|230|YBL012C
+    - log2 Fold Change: -11.31
+    - p-value: 0.0778
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1835|YEL077W-A
+    - log2 Fold Change: -11.70
+    - p-value: 0.0769
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5470|YOL164W-A
+    - log2 Fold Change: -11.75
+    - p-value: 0.2031
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4883|YMR193C-A
+    - log2 Fold Change: -11.77
+    - p-value: 0.0936
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5389|YNR003W-A
+    - log2 Fold Change: -11.84
+    - p-value: 0.2327
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5724|YOR072W-B
+    - log2 Fold Change: -11.84
+    - p-value: 0.1942
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5976|YOR314W-A
+    - log2 Fold Change: -12.09
+    - p-value: 0.0599
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|569|YBR298C-A
+    - log2 Fold Change: -12.49
+    - p-value: 0.0692
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4923|YMR230W-A
+    - log2 Fold Change: -14.37
+    - p-value: 0.0921
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+
+
+================================================================================
+Analysis: Comparisons vs. GNHR
+Filtering for genes with |log2 Fold Change| > 5 AND p-value > 0.05
+================================================================================
+
+--- Comparison Group: EBY / GNHR ---
+  Gene: jgi|Sacce1|4923|YMR230W-A
+    - log2 Fold Change: 14.37
+    - p-value: 0.0921
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|569|YBR298C-A
+    - log2 Fold Change: 12.49
+    - p-value: 0.0692
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5976|YOR314W-A
+    - log2 Fold Change: 12.09
+    - p-value: 0.0599
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5724|YOR072W-B
+    - log2 Fold Change: 11.84
+    - p-value: 0.1942
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5389|YNR003W-A
+    - log2 Fold Change: 11.84
+    - p-value: 0.2327
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4883|YMR193C-A
+    - log2 Fold Change: 11.77
+    - p-value: 0.0936
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5470|YOL164W-A
+    - log2 Fold Change: 11.75
+    - p-value: 0.2031
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1835|YEL077W-A
+    - log2 Fold Change: 11.70
+    - p-value: 0.0769
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|230|YBL012C
+    - log2 Fold Change: 11.31
+    - p-value: 0.0778
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3234|YJL197C-A
+    - log2 Fold Change: 11.27
+    - p-value: 0.0555
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5658|YOR011W-A
+    - log2 Fold Change: 11.10
+    - p-value: 0.1024
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3406|YJL032W
+    - log2 Fold Change: 11.10
+    - p-value: 0.1126
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2608|YGR035W-A
+    - log2 Fold Change: 11.08
+    - p-value: 0.1844
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|114|YAR070C
+    - log2 Fold Change: 11.01
+    - p-value: 0.2650
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2874|YGR291C
+    - log2 Fold Change: 10.61
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5366|YNL019C
+    - log2 Fold Change: 10.58
+    - p-value: 0.1365
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5623|YOL019W-A
+    - log2 Fold Change: 10.55
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1118|YDR095C
+    - log2 Fold Change: 10.55
+    - p-value: 0.0507
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6277|YPL080C
+    - log2 Fold Change: 10.45
+    - p-value: 0.2495
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1223|YDR194W-A
+    - log2 Fold Change: 10.35
+    - p-value: 0.1963
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1035|YDR015C
+    - log2 Fold Change: 9.97
+    - p-value: 0.1853
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5468|YOL166C
+    - log2 Fold Change: 9.70
+    - p-value: 0.1994
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|766|YDL240C-A
+    - log2 Fold Change: 9.70
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|68|YAL016C-B
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6360|YPR002C-A
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4943|YMR247W-A
+    - log2 Fold Change: 9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4221|YLR184W
+    - log2 Fold Change: 8.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2807|YGR226C
+    - log2 Fold Change: 8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5032|YNL339C
+    - log2 Fold Change: 8.52
+    - p-value: 0.1732
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YRF1-6, YRF1; Y' element ATP-dependent helicase protein 1 copy 6
+
+  Gene: jgi|Sacce1|110|YAR064W
+    - log2 Fold Change: 8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5031|YMR326C
+    - log2 Fold Change: 8.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2883|YHL050W-A
+    - log2 Fold Change: 7.39
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2305|YGL258W
+    - log2 Fold Change: 5.47
+    - p-value: 0.1775
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) VEL1; Vel1p
+
+  Gene: jgi|Sacce1|2624|YGR051C
+    - log2 Fold Change: -5.15
+    - p-value: 0.0753
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|103|YAR035W
+    - log2 Fold Change: -6.66
+    - p-value: 0.0872
+    - JGI Annotation: Carnitine O-acetyltransferase
+    - KEGG Annotation: K00624 carnitine O-acetyltransferase [EC:2.3.1.7] | (RefSeq) YAT1; carnitine O-acetyltransferase YAT1
+
+  Gene: jgi|Sacce1|2640|YGR067C
+    - log2 Fold Change: -7.01
+    - p-value: 0.0500
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|574|YCL076W
+    - log2 Fold Change: -8.65
+    - p-value: 0.1835
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1376|YDR343C
+    - log2 Fold Change: -9.38
+    - p-value: 0.2179
+    - JGI Annotation: L-arabinose isomerase
+    - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT6; hexose transporter HXT6
+
+  Gene: jgi|Sacce1|1011|YDL007C-A
+    - log2 Fold Change: -9.58
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2163|YFL063W
+    - log2 Fold Change: -9.65
+    - p-value: 0.1863
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3206|YJL222W-B
+    - log2 Fold Change: -10.10
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|463|YBR200W-A
+    - log2 Fold Change: -10.19
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5466|YNR077C
+    - log2 Fold Change: -10.79
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|850|YDL159W-A
+    - log2 Fold Change: -11.21
+    - p-value: 0.1842
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+  Gene: jgi|Sacce1|4969|YMR272W-B
+    - log2 Fold Change: -11.50
+    - p-value: 0.1840
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|486|YBR221W-A
+    - log2 Fold Change: -11.85
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1671|YIL102C
+    - log2 Fold Change: -12.95
+    - p-value: 0.0669
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6524|YPR159C-A
+    - log2 Fold Change: -13.45
+    - p-value: 0.1078
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+--- Comparison Group: GNSR / GNHR ---
+  Gene: jgi|Sacce1|5470|YOL164W-A
+    - log2 Fold Change: 13.75
+    - p-value: 0.2754
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4923|YMR230W-A
+    - log2 Fold Change: 12.59
+    - p-value: 0.3175
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5658|YOR011W-A
+    - log2 Fold Change: 12.45
+    - p-value: 0.3219
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3872|YKR033C
+    - log2 Fold Change: 12.44
+    - p-value: 0.2048
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6|YAL066W
+    - log2 Fold Change: 12.34
+    - p-value: 0.3772
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5389|YNR003W-A
+    - log2 Fold Change: 12.26
+    - p-value: 0.0519
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4883|YMR193C-A
+    - log2 Fold Change: 12.15
+    - p-value: 0.2924
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5976|YOR314W-A
+    - log2 Fold Change: 12.09
+    - p-value: 0.0511
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2874|YGR291C
+    - log2 Fold Change: 12.05
+    - p-value: 0.2614
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1118|YDR095C
+    - log2 Fold Change: 11.77
+    - p-value: 0.1602
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1389|YDR355C
+    - log2 Fold Change: 11.58
+    - p-value: 0.2653
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|643|YCR001W
+    - log2 Fold Change: 11.55
+    - p-value: 0.2603
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|114|YAR070C
+    - log2 Fold Change: 11.29
+    - p-value: 0.2422
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|569|YBR298C-A
+    - log2 Fold Change: 11.20
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3249|YJL182C
+    - log2 Fold Change: 11.14
+    - p-value: 0.1526
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2608|YGR035W-A
+    - log2 Fold Change: 11.10
+    - p-value: 0.0577
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5468|YOL166C
+    - log2 Fold Change: 10.97
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3711|YKL118W
+    - log2 Fold Change: 10.73
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3406|YJL032W
+    - log2 Fold Change: 10.69
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5724|YOR072W-B
+    - log2 Fold Change: 10.64
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4013|YLL006W-A
+    - log2 Fold Change: 10.55
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5474|YOL161C
+    - log2 Fold Change: 10.50
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) PAU20; seripauperin PAU20
+
+  Gene: jgi|Sacce1|1035|YDR015C
+    - log2 Fold Change: 10.10
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3587|YJR150C
+    - log2 Fold Change: 9.97
+    - p-value: 0.5000
+    - JGI Annotation: Carboxylic ester hydrolases
+    - KEGG Annotation: no KO assigned | (RefSeq) DAN1, CCW13; Dan1p
+
+  Gene: jgi|Sacce1|1835|YEL077W-A
+    - log2 Fold Change: 9.97
+    - p-value: 0.0635
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5356|YNL028W
+    - log2 Fold Change: 9.73
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4221|YLR184W
+    - log2 Fold Change: 9.35
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|230|YBL012C
+    - log2 Fold Change: 9.35
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5366|YNL019C
+    - log2 Fold Change: 8.23
+    - p-value: 0.5000
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|451|YBR191W-A
+    - log2 Fold Change: 6.00
+    - p-value: 0.1137
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6050|YOR383C
+    - log2 Fold Change: -5.34
+    - p-value: 0.0559
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) FIT3; Fit3p
+
+  Gene: jgi|Sacce1|111|YAR066W
+    - log2 Fold Change: -7.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|103|YAR035W
+    - log2 Fold Change: -8.48
+    - p-value: 0.0861
+    - JGI Annotation: Carnitine O-acetyltransferase
+    - KEGG Annotation: K00624 carnitine O-acetyltransferase [EC:2.3.1.7] | (RefSeq) YAT1; carnitine O-acetyltransferase YAT1
+
+  Gene: jgi|Sacce1|1705|YIL068W-A
+    - log2 Fold Change: -8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5975|YOR314W
+    - log2 Fold Change: -8.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3191|YHR213W-B
+    - log2 Fold Change: -9.06
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6337|YPL021W
+    - log2 Fold Change: -9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) ECM23, SRD2; Ecm23p
+
+  Gene: jgi|Sacce1|1376|YDR343C
+    - log2 Fold Change: -9.38
+    - p-value: 0.2179
+    - JGI Annotation: L-arabinose isomerase
+    - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT6; hexose transporter HXT6
+
+  Gene: jgi|Sacce1|2163|YFL063W
+    - log2 Fold Change: -9.65
+    - p-value: 0.1863
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2688|YGR114C
+    - log2 Fold Change: -9.82
+    - p-value: 0.1885
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|112|YAR068W
+    - log2 Fold Change: -9.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|845|YDL163W
+    - log2 Fold Change: -10.01
+    - p-value: 0.1839
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|353|YBR103C-A
+    - log2 Fold Change: -10.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1749|YIL029W-A
+    - log2 Fold Change: -10.27
+    - p-value: 0.2174
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1754|YIL025C
+    - log2 Fold Change: -10.38
+    - p-value: 0.1994
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4566|YML099W-A
+    - log2 Fold Change: -10.49
+    - p-value: 0.2291
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3461|YJR023C
+    - log2 Fold Change: -10.52
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3641|YKL183C-A
+    - log2 Fold Change: -10.64
+    - p-value: 0.1898
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3296|YJL136W-A
+    - log2 Fold Change: -10.81
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4936|YMR242W-A
+    - log2 Fold Change: -11.08
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1570|YDR525W
+    - log2 Fold Change: -11.27
+    - p-value: 0.0953
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) API2; Api2p
+
+  Gene: jgi|Sacce1|1655|YIL115W-A
+    - log2 Fold Change: -11.36
+    - p-value: 0.0597
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|852|YDL159C-B
+    - log2 Fold Change: -11.40
+    - p-value: 0.2313
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4969|YMR272W-B
+    - log2 Fold Change: -11.50
+    - p-value: 0.1840
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|489|YBR223W-A
+    - log2 Fold Change: -11.54
+    - p-value: 0.1876
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1563|YDR521W
+    - log2 Fold Change: -11.64
+    - p-value: 0.2259
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6470|YPR108W-A
+    - log2 Fold Change: -11.83
+    - p-value: 0.1956
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|486|YBR221W-A
+    - log2 Fold Change: -11.85
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|6041|YOR376W
+    - log2 Fold Change: -11.93
+    - p-value: 0.1946
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4843|YMR158W-B
+    - log2 Fold Change: -11.98
+    - p-value: 0.1486
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3951|YLL066W-B
+    - log2 Fold Change: -11.98
+    - p-value: 0.1897
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1721|YIL054W
+    - log2 Fold Change: -12.00
+    - p-value: 0.1282
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4451|YLR399W-A
+    - log2 Fold Change: -12.49
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3419|YJL020W-A
+    - log2 Fold Change: -12.95
+    - p-value: 0.0747
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6524|YPR159C-A
+    - log2 Fold Change: -13.45
+    - p-value: 0.1078
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|5233|YNL144W-A
+    - log2 Fold Change: -13.46
+    - p-value: 0.2320
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+--- Comparison Group: GNUR / GNHR ---
+  Gene: jgi|Sacce1|5389|YNR003W-A
+    - log2 Fold Change: 13.76
+    - p-value: 0.0755
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|167|YBL070C
+    - log2 Fold Change: 12.49
+    - p-value: 0.1097
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6|YAL066W
+    - log2 Fold Change: 12.45
+    - p-value: 0.0992
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6360|YPR002C-A
+    - log2 Fold Change: 12.41
+    - p-value: 0.3098
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5724|YOR072W-B
+    - log2 Fold Change: 12.28
+    - p-value: 0.0826
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3406|YJL032W
+    - log2 Fold Change: 12.22
+    - p-value: 0.1264
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5976|YOR314W-A
+    - log2 Fold Change: 11.79
+    - p-value: 0.1887
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1389|YDR355C
+    - log2 Fold Change: 11.69
+    - p-value: 0.2164
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3711|YKL118W
+    - log2 Fold Change: 11.66
+    - p-value: 0.2177
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|230|YBL012C
+    - log2 Fold Change: 11.52
+    - p-value: 0.1887
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5658|YOR011W-A
+    - log2 Fold Change: 11.50
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1118|YDR095C
+    - log2 Fold Change: 11.47
+    - p-value: 0.0543
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|569|YBR298C-A
+    - log2 Fold Change: 11.43
+    - p-value: 0.2477
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|4883|YMR193C-A
+    - log2 Fold Change: 11.40
+    - p-value: 0.3168
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|4013|YLL006W-A
+    - log2 Fold Change: 11.21
+    - p-value: 0.1842
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|387|YBR131C-A
+    - log2 Fold Change: 10.92
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3872|YKR033C
+    - log2 Fold Change: 10.87
+    - p-value: 0.1881
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1835|YEL077W-A
+    - log2 Fold Change: 10.31
+    - p-value: 0.2475
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5356|YNL028W
+    - log2 Fold Change: 10.23
+    - p-value: 0.1848
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|68|YAL016C-B
+    - log2 Fold Change: 9.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|2608|YGR035W-A
+    - log2 Fold Change: 9.82
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|124|YBL108W
+    - log2 Fold Change: 9.45
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3430|YJL007C
+    - log2 Fold Change: 9.45
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1589|YDR543C
+    - log2 Fold Change: 9.38
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|6277|YPL080C
+    - log2 Fold Change: 9.38
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|3954|YLL065W
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5468|YOL166C
+    - log2 Fold Change: 9.31
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|110|YAR064W
+    - log2 Fold Change: 9.23
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|1831|YIR040C
+    - log2 Fold Change: 9.23
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|1745|YIL032C
+    - log2 Fold Change: 9.15
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5366|YNL019C
+    - log2 Fold Change: 8.76
+    - p-value: 0.1859
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|577|YCL068C
+    - log2 Fold Change: 7.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|576|YCL069W
+    - log2 Fold Change: 7.07
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) VBA3; basic amino acid transporter
+
+  Gene: jgi|Sacce1|5032|YNL339C
+    - log2 Fold Change: 6.66
+    - p-value: 0.2254
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) YRF1-6, YRF1; Y' element ATP-dependent helicase protein 1 copy 6
+
+  Gene: jgi|Sacce1|4624|YML047W-A
+    - log2 Fold Change: -8.65
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|574|YCL076W
+    - log2 Fold Change: -8.65
+    - p-value: 0.1835
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5975|YOR314W
+    - log2 Fold Change: -8.87
+    - p-value: 0.4226
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Gene: jgi|Sacce1|2163|YFL063W
+    - log2 Fold Change: -9.65
+    - p-value: 0.1863
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|5368|YNL017C
+    - log2 Fold Change: -9.97
+    - p-value: 0.1907
+    - JGI Annotation: nan
+    - KEGG Annotation: nan
+
+  Gene: jgi|Sacce1|3951|YLL066W-B
+    - log2 Fold Change: -11.98
+    - p-value: 0.1897
+    - JGI Annotation: nan
+    - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+

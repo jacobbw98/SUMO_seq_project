@@ -1,0 +1,290 @@
+================================================================================
+Analysis: Comparisons vs. EBY
+Filtering for TOP 5 Upregulated (log2FC > 5) and Downregulated (log2FC < -5) Genes
+Condition: p-value > 0.05
+================================================================================
+
+--- Comparison Group: GNSR / EBY ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|1011|YDL007C-A (log2FC: 12.39)
+      - p-value: 0.3561
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3249|YJL182C (log2FC: 11.14)
+      - p-value: 0.1526
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|850|YDL159W-A (log2FC: 10.97)
+      - p-value: 0.5000
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+    Gene: jgi|Sacce1|5466|YNR077C (log2FC: 10.77)
+      - p-value: 0.5000
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4013|YLL006W-A (log2FC: 10.55)
+      - p-value: 0.5000
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|5233|YNL144W-A (log2FC: -12.07)
+      - p-value: 0.2328
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|4451|YLR399W-A (log2FC: -12.07)
+      - p-value: 0.1064
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3641|YKL183C-A (log2FC: -11.92)
+      - p-value: 0.0790
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|489|YBR223W-A (log2FC: -11.49)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|845|YDL163W (log2FC: -11.47)
+      - p-value: 0.1184
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+--- Comparison Group: GNUR / EBY ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|6524|YPR159C-A (log2FC: 13.20)
+      - p-value: 0.1870
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|463|YBR200W-A (log2FC: 12.86)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3206|YJL222W-B (log2FC: 12.20)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|1011|YDL007C-A (log2FC: 11.83)
+      - p-value: 0.0987
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|486|YBR221W-A (log2FC: 11.80)
+      - p-value: 0.1852
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|4923|YMR230W-A (log2FC: -14.37)
+      - p-value: 0.0921
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4624|YML047W-A (log2FC: -12.91)
+      - p-value: 0.1416
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3234|YJL197C-A (log2FC: -11.27)
+      - p-value: 0.0555
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|114|YAR070C (log2FC: -11.01)
+      - p-value: 0.2650
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|2874|YGR291C (log2FC: -10.61)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+--- Comparison Group: GNHR / EBY ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|6524|YPR159C-A (log2FC: 13.45)
+      - p-value: 0.1078
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|1671|YIL102C (log2FC: 12.95)
+      - p-value: 0.0669
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|486|YBR221W-A (log2FC: 11.85)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4969|YMR272W-B (log2FC: 11.50)
+      - p-value: 0.1840
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|850|YDL159W-A (log2FC: 11.21)
+      - p-value: 0.1842
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|4923|YMR230W-A (log2FC: -14.37)
+      - p-value: 0.0921
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|569|YBR298C-A (log2FC: -12.49)
+      - p-value: 0.0692
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5976|YOR314W-A (log2FC: -12.09)
+      - p-value: 0.0599
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5389|YNR003W-A (log2FC: -11.84)
+      - p-value: 0.2327
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5724|YOR072W-B (log2FC: -11.84)
+      - p-value: 0.1942
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+
+
+================================================================================
+Analysis: Comparisons vs. GNHR
+Filtering for TOP 5 Upregulated (log2FC > 5) and Downregulated (log2FC < -5) Genes
+Condition: p-value > 0.05
+================================================================================
+
+--- Comparison Group: EBY / GNHR ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|4923|YMR230W-A (log2FC: 14.37)
+      - p-value: 0.0921
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|569|YBR298C-A (log2FC: 12.49)
+      - p-value: 0.0692
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5976|YOR314W-A (log2FC: 12.09)
+      - p-value: 0.0599
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5724|YOR072W-B (log2FC: 11.84)
+      - p-value: 0.1942
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5389|YNR003W-A (log2FC: 11.84)
+      - p-value: 0.2327
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|6524|YPR159C-A (log2FC: -13.45)
+      - p-value: 0.1078
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|1671|YIL102C (log2FC: -12.95)
+      - p-value: 0.0669
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|486|YBR221W-A (log2FC: -11.85)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4969|YMR272W-B (log2FC: -11.50)
+      - p-value: 0.1840
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|850|YDL159W-A (log2FC: -11.21)
+      - p-value: 0.1842
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) YDL159W-B; uncharacterized protein
+
+--- Comparison Group: GNSR / GNHR ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|5470|YOL164W-A (log2FC: 13.75)
+      - p-value: 0.2754
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4923|YMR230W-A (log2FC: 12.59)
+      - p-value: 0.3175
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5658|YOR011W-A (log2FC: 12.45)
+      - p-value: 0.3219
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3872|YKR033C (log2FC: 12.44)
+      - p-value: 0.2048
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6|YAL066W (log2FC: 12.34)
+      - p-value: 0.3772
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|5233|YNL144W-A (log2FC: -13.46)
+      - p-value: 0.2320
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6524|YPR159C-A (log2FC: -13.45)
+      - p-value: 0.1078
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3419|YJL020W-A (log2FC: -12.95)
+      - p-value: 0.0747
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|4451|YLR399W-A (log2FC: -12.49)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|1721|YIL054W (log2FC: -12.00)
+      - p-value: 0.1282
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+--- Comparison Group: GNUR / GNHR ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|5389|YNR003W-A (log2FC: 13.76)
+      - p-value: 0.0755
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|167|YBL070C (log2FC: 12.49)
+      - p-value: 0.1097
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6|YAL066W (log2FC: 12.45)
+      - p-value: 0.0992
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6360|YPR002C-A (log2FC: 12.41)
+      - p-value: 0.3098
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5724|YOR072W-B (log2FC: 12.28)
+      - p-value: 0.0826
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|3951|YLL066W-B (log2FC: -11.98)
+      - p-value: 0.1897
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5368|YNL017C (log2FC: -9.97)
+      - p-value: 0.1907
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|2163|YFL063W (log2FC: -9.65)
+      - p-value: 0.1863
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5975|YOR314W (log2FC: -8.87)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4624|YML047W-A (log2FC: -8.65)
+      - p-value: 0.4226
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
