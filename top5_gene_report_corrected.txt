@@ -288,3 +288,57 @@ Condition: p-value > 0.05
       - JGI Annotation: nan
       - KEGG Annotation: nan
 
+
+
+================================================================================
+Analysis: Comparison: GNSR vs. GNUR
+Filtering for TOP 5 Upregulated (log2FC > 5) and Downregulated (log2FC < -5) Genes
+Condition: p-value > 0.05
+================================================================================
+
+--- Comparison Group: GNSR / GNUR ---
+
+  Top 5 Most Upregulated:
+    Gene: jgi|Sacce1|4923|YMR230W-A (log2FC: 12.59)
+      - p-value: 0.3175
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|2874|YGR291C (log2FC: 12.05)
+      - p-value: 0.2614
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|643|YCR001W (log2FC: 11.55)
+      - p-value: 0.2603
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4624|YML047W-A (log2FC: 11.32)
+      - p-value: 0.2697
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|114|YAR070C (log2FC: 11.29)
+      - p-value: 0.2422
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+  Top 5 Most Downregulated:
+    Gene: jgi|Sacce1|6524|YPR159C-A (log2FC: -13.20)
+      - p-value: 0.1870
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|1721|YIL054W (log2FC: -12.93)
+      - p-value: 0.1901
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|489|YBR223W-A (log2FC: -12.70)
+      - p-value: 0.0636
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|1749|YIL029W-A (log2FC: -12.68)
+      - p-value: 0.1117
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6360|YPR002C-A (log2FC: -12.41)
+      - p-value: 0.3098
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
