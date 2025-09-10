@@ -1,0 +1,308 @@
+================================================================================
+Analysis: Comparisons vs. EBY
+Filtering for TOP 5 Statistically Significant Genes
+Conditions: |log2 Fold Change| > 5 AND p-value < 0.05
+================================================================================
+
+--- Comparison Group: GNSR / EBY ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|3206|YJL222W-B (log2FC: 11.79)
+      - p-value: 0.0448
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|1375|YDR342C (log2FC: 6.74)
+      - p-value: 0.0001
+      - JGI Annotation: L-arabinose isomerase
+      - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT7; hexose transporter HXT7
+    Gene: jgi|Sacce1|2006|YER067W (log2FC: 6.09)
+      - p-value: 0.0063
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) RGI1; Rgi1p
+    Gene: jgi|Sacce1|2250|YFR015C (log2FC: 5.93)
+      - p-value: 0.0037
+      - JGI Annotation: Glycogen (starch) synthase
+      - KEGG Annotation: K00693 glycogen synthase [EC:2.4.1.11] | (RefSeq) GSY1; glycogen (starch) synthase GSY1
+    Gene: jgi|Sacce1|3279|YJL153C (log2FC: 5.86)
+      - p-value: 0.0007
+      - JGI Annotation: Myo-inositol-1-phosphate synthase
+      - KEGG Annotation: K01858 myo-inositol-1-phosphate synthase [EC:5.5.1.4] | (RefSeq) INO1, APR1; inositol-3-phosphate synthase INO1
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|1407|YDR371C-A (log2FC: -13.30)
+      - p-value: 0.0019
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|4732|YMR057C (log2FC: -13.23)
+      - p-value: 0.0073
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|852|YDL159C-B (log2FC: -12.70)
+      - p-value: 0.0091
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|1570|YDR525W (log2FC: -11.99)
+      - p-value: 0.0139
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) API2; Api2p
+    Gene: jgi|Sacce1|4936|YMR242W-A (log2FC: -11.80)
+      - p-value: 0.0154
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+
+--- Comparison Group: GNUR / EBY ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|5262|YNL117W (log2FC: 9.59)
+      - p-value: 0.0145
+      - JGI Annotation: nan
+      - KEGG Annotation: K01638 malate synthase [EC:2.3.3.9] | (RefSeq) MLS1; malate synthase MLS1
+    Gene: jgi|Sacce1|5180|YNL194C (log2FC: 9.15)
+      - p-value: 0.0059
+      - JGI Annotation: nan
+      - KEGG Annotation: K27385 SUR7 family protein | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|1375|YDR342C (log2FC: 9.11)
+      - p-value: 0.0027
+      - JGI Annotation: L-arabinose isomerase
+      - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT7; hexose transporter HXT7
+    Gene: jgi|Sacce1|3529|YJR095W (log2FC: 9.09)
+      - p-value: 0.0155
+      - JGI Annotation: nan
+      - KEGG Annotation: K15100 solute carrier family 25 (mitochondrial citrate transporter), member 1 | (RefSeq) SFC1, ACR1; Sfc1p
+    Gene: jgi|Sacce1|3939|YKR097W (log2FC: 9.01)
+      - p-value: 0.0160
+      - JGI Annotation: Phosphoenolpyruvate carboxykinase (ATP)
+      - KEGG Annotation: K01610 phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49] | (RefSeq) PCK1, JPM2, PPC1; phosphoenolpyruvate carboxykinase PCK1
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|1407|YDR371C-A (log2FC: -13.30)
+      - p-value: 0.0019
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|643|YCR001W (log2FC: -11.52)
+      - p-value: 0.0085
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5368|YNL017C (log2FC: -11.38)
+      - p-value: 0.0456
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3951|YLL066W-B (log2FC: -10.87)
+      - p-value: 0.0162
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|5474|YOL161C (log2FC: -10.19)
+      - p-value: 0.0104
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) PAU20; seripauperin PAU20
+
+--- Comparison Group: GNHR / EBY ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|6436|YPR074W-A (log2FC: 11.90)
+      - p-value: 0.0365
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|2742|YGR164W (log2FC: 11.25)
+      - p-value: 0.0225
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4785|YMR107W (log2FC: 10.16)
+      - p-value: 0.0007
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) SPG4; Spg4p
+    Gene: jgi|Sacce1|2817|YGR236C (log2FC: 9.96)
+      - p-value: 0.0003
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) SPG1; Spg1p
+    Gene: jgi|Sacce1|1375|YDR342C (log2FC: 9.86)
+      - p-value: 0.0147
+      - JGI Annotation: L-arabinose isomerase
+      - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT7; hexose transporter HXT7
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|1407|YDR371C-A (log2FC: -13.30)
+      - p-value: 0.0019
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|167|YBL070C (log2FC: -12.68)
+      - p-value: 0.0020
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3872|YKR033C (log2FC: -12.46)
+      - p-value: 0.0005
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3711|YKL118W (log2FC: -12.40)
+      - p-value: 0.0485
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6|YAL066W (log2FC: -12.18)
+      - p-value: 0.0334
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+
+
+================================================================================
+Analysis: Comparisons vs. GNHR
+Filtering for TOP 5 Statistically Significant Genes
+Conditions: |log2 Fold Change| > 5 AND p-value < 0.05
+================================================================================
+
+--- Comparison Group: EBY / GNHR ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|1407|YDR371C-A (log2FC: 13.30)
+      - p-value: 0.0019
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|167|YBL070C (log2FC: 12.68)
+      - p-value: 0.0020
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3872|YKR033C (log2FC: 12.46)
+      - p-value: 0.0005
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3711|YKL118W (log2FC: 12.40)
+      - p-value: 0.0485
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6|YAL066W (log2FC: 12.18)
+      - p-value: 0.0334
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|6436|YPR074W-A (log2FC: -11.90)
+      - p-value: 0.0365
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|2742|YGR164W (log2FC: -11.25)
+      - p-value: 0.0225
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4785|YMR107W (log2FC: -10.16)
+      - p-value: 0.0007
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) SPG4; Spg4p
+    Gene: jgi|Sacce1|2817|YGR236C (log2FC: -9.96)
+      - p-value: 0.0003
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) SPG1; Spg1p
+    Gene: jgi|Sacce1|1375|YDR342C (log2FC: -9.86)
+      - p-value: 0.0147
+      - JGI Annotation: L-arabinose isomerase
+      - KEGG Annotation: K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT7; hexose transporter HXT7
+
+--- Comparison Group: GNSR / GNHR ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|167|YBL070C (log2FC: 12.56)
+      - p-value: 0.0473
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|4625|YML047C (log2FC: 8.72)
+      - p-value: 0.0384
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) PRM6, KCH2; pheromone-regulated K(+) transporter PRM6
+    Gene: jgi|Sacce1|2299|YGL263W (log2FC: 6.91)
+      - p-value: 0.0093
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) COS12; Cos12p
+    Gene: jgi|Sacce1|283|YBR040W (log2FC: 6.75)
+      - p-value: 0.0441
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) FIG1; Fig1p
+    Gene: jgi|Sacce1|6165|YPL187W (log2FC: 6.58)
+      - p-value: 0.0018
+      - JGI Annotation: nan
+      - KEGG Annotation: K11234 mating pheromone alpha-factor | (RefSeq) MF(ALPHA)1; Mf(Alpha)1p
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|4732|YMR057C (log2FC: -15.06)
+      - p-value: 0.0166
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|5372|YNL013C (log2FC: -13.05)
+      - p-value: 0.0218
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|483|YBR219C (log2FC: -11.29)
+      - p-value: 0.0494
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|2742|YGR164W (log2FC: -11.25)
+      - p-value: 0.0225
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|4352|YLR307C-A (log2FC: -10.22)
+      - p-value: 0.0025
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) DPA10; Dpa10p
+
+--- Comparison Group: GNUR / GNHR ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|5470|YOL164W-A (log2FC: 12.04)
+      - p-value: 0.0308
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3587|YJR150C (log2FC: 11.93)
+      - p-value: 0.0106
+      - JGI Annotation: Carboxylic ester hydrolases
+      - KEGG Annotation: no KO assigned | (RefSeq) DAN1, CCW13; Dan1p
+    Gene: jgi|Sacce1|1900|YEL020C-B (log2FC: 5.13)
+      - p-value: 0.0243
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|2561|YGL009C (log2FC: -5.09)
+      - p-value: 0.0022
+      - JGI Annotation: 3-isopropylmalate dehydratase
+      - KEGG Annotation: K01702 3-isopropylmalate dehydratase [EC:4.2.1.33] | (RefSeq) LEU1; 3-isopropylmalate dehydratase LEU1
+
+
+
+================================================================================
+Analysis: Comparison: GNSR vs. GNUR
+Filtering for TOP 5 Statistically Significant Genes
+Conditions: |log2 Fold Change| > 5 AND p-value < 0.05
+================================================================================
+
+--- Comparison Group: GNSR / GNUR ---
+
+  Top 5 Most Upregulated (Significant):
+    Gene: jgi|Sacce1|283|YBR040W (log2FC: 5.31)
+      - p-value: 0.0433
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) FIG1; Fig1p
+    Gene: jgi|Sacce1|6165|YPL187W (log2FC: 5.15)
+      - p-value: 0.0001
+      - JGI Annotation: nan
+      - KEGG Annotation: K11234 mating pheromone alpha-factor | (RefSeq) MF(ALPHA)1; Mf(Alpha)1p
+
+  Top 5 Most Downregulated (Significant):
+    Gene: jgi|Sacce1|4732|YMR057C (log2FC: -13.58)
+      - p-value: 0.0208
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|6470|YPR108W-A (log2FC: -12.88)
+      - p-value: 0.0299
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3419|YJL020W-A (log2FC: -12.87)
+      - p-value: 0.0421
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+    Gene: jgi|Sacce1|3641|YKL183C-A (log2FC: -11.81)
+      - p-value: 0.0316
+      - JGI Annotation: nan
+      - KEGG Annotation: no KO assigned | (RefSeq) uncharacterized protein
+    Gene: jgi|Sacce1|3461|YJR023C (log2FC: -11.23)
+      - p-value: 0.0288
+      - JGI Annotation: nan
+      - KEGG Annotation: nan
+
