@@ -1,0 +1,7 @@
+Geneid,log2FoldChange,pvalue,-log10(pvalue),comparison,Regulation,JGI_annotation,KEGG_annotation
+jgi|Sacce1|3102|YHR137W,3.917381400375848,3.0392256645865966e-06,5.517237052060181,GNSR / EBY,Upregulated,Transaminases (aminotransferases),K05821 aromatic amino acid aminotransferase II [EC:2.6.1.58 2.6.1.28] | (RefSeq) ARO9; aromatic-amino-acid:2-oxoglutarate transaminase
+jgi|Sacce1|5931|YOR273C,2.1795399876597537,2.9116900036194364e-05,4.535854864552677,GNSR / EBY,Upregulated,,"K28028 MFS transporter, DHA1 family, putrescine transporter | (RefSeq) TPO4; Tpo4p"
+jgi|Sacce1|402|YBR145W,3.128035049347231,2.4725146588715983e-05,4.606861124908468,GNSR / EBY,Upregulated,Alcohol dehydrogenase,"K13953 alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] | (RefSeq) ADH5; alcohol dehydrogenase ADH5"
+jgi|Sacce1|5913|YOR255W,4.96073939778594,7.68608782468438e-05,4.114294657399918,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) OSW1; Osw1p
+jgi|Sacce1|5469|YOL165C,3.2381659501242694,2.572174791771263e-05,4.589699522325413,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) AAD15; putative aryl-alcohol dehydrogenase
+
