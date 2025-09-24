@@ -1,0 +1,333 @@
+Geneid,comparison,log2FoldChange,Regulation,JGI_annotation,KEGG_annotation,Metabolic_Pathway
+jgi|Sacce1|807|YDL200C,EBY / GNHR,-2.011984354,Downregulated,Methylated-DNA--[protein]-cysteine S-methyltransferase,"K00567 methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63] | (RefSeq) MGT1; methylated-DNA--protein-cysteine methyltransferase",DNA Repair
+jgi|Sacce1|6542|YPR172W,EBY / GNHR,-2.01501945,Downregulated,,no KO assigned | (RefSeq) pyridoxal 5'-phosphate synthase,Vitamin B6 Biosynthesis
+jgi|Sacce1|340|YBR090C,EBY / GNHR,-2.048337947,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|3076|YHR113W,EBY / GNHR,-2.087610847,Downregulated,Aspartyl aminopeptidase,"K01267 aspartyl aminopeptidase [EC:3.4.11.21] | (RefSeq) APE4; aspartyl aminopeptidase",Aspartyl aminopeptidase
+jgi|Sacce1|1616|YIL152W,EBY / GNHR,-2.106437547,Downregulated,,no KO assigned | (RefSeq) VPR1; Vpr1p,Function Inferred
+jgi|Sacce1|2118|YER158C,EBY / GNHR,-2.11987129,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|4230|YLR193C,EBY / GNHR,-2.158295001,Downregulated,,"K27964 PRELI domain-containing protein 1, mitochondrial | (RefSeq) UPS1; Ups1p",Function Inferred
+jgi|Sacce1|2004|YER066W,EBY / GNHR,-2.170243253,Downregulated,,no KO assigned | (RefSeq) RRT13; Rrt13p,Function Inferred
+jgi|Sacce1|3169|YHR195W,EBY / GNHR,-2.173946345,Downregulated,,"K22264 nucleus-vacuole junction protein 1 | (RefSeq) NVJ1, VAB36; Nvj1p",Function Inferred
+jgi|Sacce1|6077|YPL271W,EBY / GNHR,-2.175839938,Downregulated,H(+)-transporting two-sector ATPase,"K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) ATP15; F1F0 ATP synthase subunit epsilon",H(+)-transporting two-sector atpase
+jgi|Sacce1|570|YBR299W,EBY / GNHR,-2.247785153,Downregulated,Alpha-glucosidase,"K01182 oligo-1,6-glucosidase [EC:3.2.1.10] | (RefSeq) MAL32; alpha-glucosidase MAL32",Alpha-glucosidase
+jgi|Sacce1|707|YCR060W,EBY / GNHR,-2.347492821,Downregulated,,no KO assigned | (RefSeq) TAH1; Tah1p,Function Inferred
+jgi|Sacce1|1744|YIL033C,EBY / GNHR,-2.366755202,Downregulated,Phosphotransferases with an alcohol group as acceptor,"K04739 cAMP-dependent protein kinase regulator | (RefSeq) BCY1, SRA1; cAMP-dependent protein kinase regulatory subunit BCY1",Protein kinase
+jgi|Sacce1|5681|YOR032W-A,EBY / GNHR,-2.424257194,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|3990|YLL029W,EBY / GNHR,-2.451813434,Downregulated,Xaa-Pro aminopeptidase,"K01262 Xaa-Pro aminopeptidase [EC:3.4.11.9] | (RefSeq) FRA1; aminopeptidase P",Xaa-pro aminopeptidase
+jgi|Sacce1|3069|YHR106W,EBY / GNHR,-2.458386037,Downregulated,,K00384 thioredoxin reductase (NADPH) [EC:1.8.1.9] | (RefSeq) TRR2; thioredoxin-disulfide reductase TRR2,Thioredoxin reductase
+jgi|Sacce1|5671|YOR023C,EBY / GNHR,-2.523177969,Downregulated,,K11370 ADA HAT complex component 1 | (RefSeq) AHC1; Ahc1p,Function Inferred
+jgi|Sacce1|4342|YLR299W,EBY / GNHR,-2.52490329,Downregulated,Gamma-glutamyltransferase,"K00681 gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13] | (RefSeq) ECM38, CIS2; gamma-glutamyltransferase",Gamma-glutamyltransferase
+jgi|Sacce1|3687|YKL141W,EBY / GNHR,-2.547322961,Downregulated,Succinate dehydrogenase (ubiquinone),"K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit | (RefSeq) SDH3, CYB3, YKL4; succinate dehydrogenase cytochrome b subunit SDH3",Succinate dehydrogenase
+jgi|Sacce1|4383|YLR337C,EBY / GNHR,-2.619793013,Downregulated,Acid--D-amino-acid ligases (peptide synthases),"no KO assigned | (RefSeq) VRP1, END5, MDP2, YLR337W; Vrp1p",Acid--d-amino-acid ligases (peptide synthases)
+jgi|Sacce1|2590|YGR019W,EBY / GNHR,-2.651929099,Downregulated,4-aminobutyrate aminotransferase,"K13524 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase [EC:2.6.1.19 2.6.1.22] | (RefSeq) UGA1; 4-aminobutyrate transaminase",4-aminobutyrate aminotransferase
+jgi|Sacce1|6518|YPR154W,EBY / GNHR,-2.683187333,Downregulated,,"K20522 LAS seventeen-binding protein 1/2 | (RefSeq) PIN3, LSB2; Pin3p",Function Inferred
+jgi|Sacce1|3793|YKL043W,EBY / GNHR,-2.756802565,Downregulated,,no KO assigned | (RefSeq) PHD1; Phd1p,Function Inferred
+jgi|Sacce1|5041|YNL332W,EBY / GNHR,-2.957045369,Downregulated,,K18278 pyrimidine precursor biosynthesis enzyme | (RefSeq) THI12; 4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate synthase,Pyrimidine precursor biosynthesis
+jgi|Sacce1|6072|YPL278C,EBY / GNHR,-3.001763237,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|6422|YPR061C,EBY / GNHR,-3.080652392,Downregulated,,no KO assigned | (RefSeq) JID1; Jid1p,Function Inferred
+jgi|Sacce1|3213|YJL217W,EBY / GNHR,-3.089414676,Downregulated,,K09702 uncharacterized protein | (RefSeq) REE1; Ree1p,Function Inferred
+jgi|Sacce1|6073|YPL277C,EBY / GNHR,-3.170786251,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|4049|YLR030W,EBY / GNHR,-3.199603633,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|6155|YPL196W,EBY / GNHR,-3.215386654,Downregulated,,no KO assigned | (RefSeq) OXR1; Oxr1p,Function Inferred
+jgi|Sacce1|5370|YNL015W,EBY / GNHR,-3.268172313,Downregulated,,"no KO assigned | (RefSeq) PBI2, LMA1; Pbi2p",Function Inferred
+jgi|Sacce1|2183|YFL042C,EBY / GNHR,-3.284729172,Downregulated,Sterol glucosyltransferase,"K27898 protein Aster | (RefSeq) LAM5, LTC2, YFL043C; Lam5p",Sterol glucosyltransferase
+jgi|Sacce1|1292|YDR262W,EBY / GNHR,-3.483870121,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|5244|YNL134C,EBY / GNHR,-3.791270495,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|4099|YLR080W,EBY / GNHR,-3.808437624,Downregulated,,"K10080 lectin, mannose-binding 1 | (RefSeq) EMP46; Emp46p",Function Inferred
+jgi|Sacce1|5137|YNL237W,EBY / GNHR,-3.873376751,Downregulated,,no KO assigned | (RefSeq) YTP1; Ytp1p,Function Inferred
+jgi|Sacce1|5841|YOR185C,EBY / GNHR,-4.069039637,Downregulated,,"K07936 GTP-binding nuclear protein Ran | (RefSeq) GSP2, CNR2; Ran GTPase GSP2",Function Inferred
+jgi|Sacce1|4404|YLR356W,EBY / GNHR,-4.263713432,Downregulated,,K19717 autophagy-related protein 33 | (RefSeq) ATG33; Atg33p,Autophagy-related protein processing
+jgi|Sacce1|2217|YFL014W,EBY / GNHR,-4.34432822,Downregulated,,"no KO assigned | (RefSeq) HSP12, GLP1, HOR5; lipid-binding protein HSP12",Function Inferred
+jgi|Sacce1|478|YBR214W,EBY / GNHR,-5.307459308,Downregulated,,no KO assigned | (RefSeq) SDS24; Sds24p,Function Inferred
+jgi|Sacce1|3740|YKL093W,EBY / GNHR,-5.776903722,Downregulated,,no KO assigned | (RefSeq) MBR1; Mbr1p,Function Inferred
+jgi|Sacce1|1026|YDR007W,EBY / GNHR,-6.082387181,Downregulated,Phosphoribosylanthranilate isomerase,"K01817 phosphoribosylanthranilate isomerase [EC:5.3.1.24] | (RefSeq) TRP1; phosphoribosylanthranilate isomerase TRP1",Tryptophan Biosynthesis
+jgi|Sacce1|5588|YOL052C-A,EBY / GNHR,-7.703502929,Downregulated,,"no KO assigned | (RefSeq) DDR2, YOL053C-A; Ddr2p",Function Inferred
+jgi|Sacce1|5180|YNL194C,EBY / GNHR,-9.190327715,Downregulated,,K27385 SUR7 family protein | (RefSeq) uncharacterized protein,Function Inferred
+jgi|Sacce1|780|YDL227C,EBY / GNHR,6.45554176,Upregulated,,no KO assigned | (RefSeq) HO; Hop,Mating Response
+jgi|Sacce1|4423|YLR372W,EBY / GNHR,5.791708486,Upregulated,,"K10246 fatty acid elongase 3 [EC:2.3.1.199] | (RefSeq) ELO3, APA1, SRE1, SUR4, VBM1; fatty acid elongase ELO3",Fatty Acid Elongation
+jgi|Sacce1|1168|YDR144C,EBY / GNHR,5.782329101,Upregulated,Yapsin 1,"K06009 yapsin 1/2 [EC:3.4.23.41] | (RefSeq) MKC7, YPS2; aspartyl protease",Protein Processing
+jgi|Sacce1|681|YCR034W,EBY / GNHR,5.095070197,Upregulated,,"K10245 fatty acid elongase 2 [EC:2.3.1.199] | (RefSeq) ELO2, FEN1, GNS1, VBM2; fatty acid elongase ELO2",Fatty Acid Elongation
+jgi|Sacce1|4794|YMR116C,EBY / GNHR,4.781164263,Upregulated,2-acetyl-1-alkylglycerophosphocholine esterase,"K14753 guanine nucleotide-binding protein subunit beta-2-like 1 protein | (RefSeq) ASC1, ASU9, CPC2, NAD1; ribosomal 40S subunit protein ASC1",2-acetyl-1-alkylglycerophosphocholine esterase
+jgi|Sacce1|3610|YKL216W,EBY / GNHR,4.699158414,Upregulated,Dihydroorotate oxidase,"K00226 dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1] | (RefSeq) URA1; dihydroorotate dehydrogenase",Dihydroorotate oxidation
+jgi|Sacce1|6092|YPL256C,EBY / GNHR,4.378595035,Upregulated,,K06650 G1/S-specific cyclin CLN2 | (RefSeq) CLN2; cyclin CLN2,Function Inferred
+jgi|Sacce1|2699|YGR123C,EBY / GNHR,4.311355788,Upregulated,Serine/threonine specific protein phosphatase,"K04460 serine/threonine-protein phosphatase 5 [EC:3.1.3.16] | (RefSeq) PPT1; protein serine/threonine phosphatase",Serine/threonine specific protein phosphatase
+jgi|Sacce1|4234|YLR197W,EBY / GNHR,4.306280399,Upregulated,,"K14564 nucleolar protein 56 | (RefSeq) NOP56, SIK1; snoRNP complex protein NOP56",Function Inferred
+jgi|Sacce1|4223|YLR186W,EBY / GNHR,4.170542852,Upregulated,,"K14568 rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260] | (RefSeq) EMG1, NEP1; 18S rRNA pseudouridine methyltransferase",RrNA small subunit pseudouridine methyltransferase
+jgi|Sacce1|4627|YML043C,EBY / GNHR,4.120462705,Upregulated,,K15222 RNA polymerase I-specific transcription initiation factor RRN11 | (RefSeq) RRN11; Rrn11p,Function Inferred
+jgi|Sacce1|3023|YHR068W,EBY / GNHR,4.059839223,Upregulated,,K00809 deoxyhypusine synthase [EC:2.5.1.46] | (RefSeq) DYS1; deoxyhypusine synthase,Deoxyhypusine synthase
+jgi|Sacce1|210|YBL031W,EBY / GNHR,4.049086372,Upregulated,,no KO assigned | (RefSeq) SHE1; She1p,Function Inferred
+jgi|Sacce1|4504|YLR448W,EBY / GNHR,3.995797345,Upregulated,,K02934 large subunit ribosomal protein L6e | (RefSeq) RPL6B; ribosomal 60S subunit protein L6B,Function Inferred
+jgi|Sacce1|1124|YDR101C,EBY / GNHR,3.97881092,Upregulated,Methionyl aminopeptidase,"K14813 metalloprotease ARX1 [EC:3.-.-.-] | (RefSeq) ARX1; putative hydrolase",Methionyl aminopeptidase
+jgi|Sacce1|1766|YIL015W,EBY / GNHR,3.96453646,Upregulated,Barrierpepsin,"K01383 barrierpepsin [EC:3.4.23.35] | (RefSeq) BAR1, SST1; aspartyl protease BAR1",Barrierpepsin
+jgi|Sacce1|2704|YGR128C,EBY / GNHR,3.904937451,Upregulated,,K14547 U3 small nucleolar RNA-associated protein 8 | (RefSeq) UTP8; Utp8p,Function Inferred
+jgi|Sacce1|6463|YPR102C,EBY / GNHR,3.858749016,Upregulated,,K02868 large subunit ribosomal protein L11e | (RefSeq) RPL11A; ribosomal 60S subunit protein L11A,Function Inferred
+jgi|Sacce1|717|YCR072C,EBY / GNHR,3.858131703,Upregulated,2-acetyl-1-alkylglycerophosphocholine esterase,"K14855 ribosome assembly protein 4 | (RefSeq) RSA4; Rsa4p",Ribosome assembly
+jgi|Sacce1|6346|YPL012W,EBY / GNHR,3.783535912,Upregulated,,K14794 ribosomal RNA-processing protein 12 | (RefSeq) RRP12; mRNA-binding protein RRP12,Ribosomal rna-processing
+jgi|Sacce1|3531|YJR097W,EBY / GNHR,3.782791509,Upregulated,,"K17867 diphthamide biosynthesis protein 4 | (RefSeq) JJJ3, DPH4; Jjj3p",Diphthamide biosynthesis
+jgi|Sacce1|3003|YHR052W,EBY / GNHR,3.778537084,Upregulated,,"K14783 proteasome-interacting protein CIC1 | (RefSeq) CIC1, NSA3; Cic1p",Function Inferred
+jgi|Sacce1|5564|YOL077C,EBY / GNHR,3.756367752,Upregulated,,K14820 ribosome biogenesis protein BRX1 | (RefSeq) BRX1; ribosome biogenesis protein BRX1,Ribosome biogenesis
+jgi|Sacce1|1454|YDR414C,EBY / GNHR,3.751908928,Upregulated,,"no KO assigned | (RefSeq) ERD1, LDB2; Erd1p",Function Inferred
+jgi|Sacce1|3284|YJL148W,EBY / GNHR,3.747593379,Upregulated,DNA-directed RNA polymerase,"K03003 DNA-directed RNA polymerase I subunit RPA34 | (RefSeq) RPA34, CST21; DNA-directed RNA polymerase I subunit RPA34",Dna-directed rna polymerase
+jgi|Sacce1|778|YDL229W,EBY / GNHR,3.744395308,Upregulated,,"K03283 heat shock 70kDa protein 1/6/8 | (RefSeq) SSB1, YG101; Hsp70 family ATPase SSB1",Function Inferred
+jgi|Sacce1|2310|YGL253W,EBY / GNHR,3.728413615,Upregulated,Hexokinase,"K00844 hexokinase [EC:2.7.1.1] | (RefSeq) HXK2, HEX1, HKB, SCI2; hexokinase 2",Hexokinase
+jgi|Sacce1|5318|YNL066W,EBY / GNHR,3.723401514,Upregulated,,"K01238 SUN family beta-glucosidase [EC:3.2.1.-] | (RefSeq) SUN4, SCW3; putative glucosidase SUN4",Function Inferred
+jgi|Sacce1|337|YBR088C,EBY / GNHR,3.718000387,Upregulated,DNA-directed DNA polymerase,"K04802 proliferating cell nuclear antigen | (RefSeq) POL30; proliferating cell nuclear antigen",Dna-directed dna polymerase
+jgi|Sacce1|6276|YPL081W,EBY / GNHR,3.711071052,Upregulated,,K02997 small subunit ribosomal protein S9e | (RefSeq) RPS9A; ribosomal 40S subunit protein S9A,Function Inferred
+jgi|Sacce1|6140|YPL211W,EBY / GNHR,3.71102106,Upregulated,,K07565 60S ribosome subunit biogenesis protein NIP7 | (RefSeq) NIP7; ribosome biosynthesis protein NIP7,Ribosome subunit biogenesis
+jgi|Sacce1|5246|YNL132W,EBY / GNHR,3.686878077,Upregulated,,"K14521 N-acetyltransferase 10 [EC:2.3.1.-] | (RefSeq) KRE33, RRA1; ribosome biosynthesis protein KRE33",N-acetyltransferase
+jgi|Sacce1|5912|YOR254C,EBY / GNHR,3.656096769,Upregulated,,"K09540 translocation protein SEC63 | (RefSeq) SEC63, PTL1; protein-transporting protein SEC63",Protein transport
+jgi|Sacce1|6105|YPL245W,EBY / GNHR,3.656084636,Upregulated,,K09384 uncharacterized protein | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|2443|YGL123W,EBY / GNHR,3.650337693,Upregulated,,"K02981 small subunit ribosomal protein S2e | (RefSeq) RPS2, RPS4, SUP138, SUP38, SUP44; ribosomal 40S subunit protein S2",Function Inferred
+jgi|Sacce1|2081|YER127W,EBY / GNHR,3.644621702,Upregulated,,K14765 U3 small nucleolar ribonucleoprotein protein LCP5 | (RefSeq) LCP5; Lcp5p,Function Inferred
+jgi|Sacce1|1549|YDR508C,EBY / GNHR,3.642182052,Upregulated,,K16261 yeast amino acid transporter | (RefSeq) GNP1; glutamine permease GNP1,Amino acid transport
+jgi|Sacce1|2491|YGL076C,EBY / GNHR,3.640335287,Upregulated,,K02937 large subunit ribosomal protein L7e | (RefSeq) RPL7A; ribosomal 60S subunit protein L7A,Function Inferred
+jgi|Sacce1|4508|YLR452C,EBY / GNHR,3.63885484,Upregulated,,"K19838 GTPase-activating protein SST2 | (RefSeq) SST2, SSL2; GTPase-activating protein SST2",Function Inferred
+jgi|Sacce1|277|YBR034C,EBY / GNHR,3.634539082,Upregulated,Methyltransferases,"K11434 type I protein arginine methyltransferase [EC:2.1.1.319] | (RefSeq) HMT1, HCP1, ODP1, RMT1; protein-arginine omega-N methyltransferase HMT1",Methyltransferase
+jgi|Sacce1|1693|YIL079C,EBY / GNHR,3.631034738,Upregulated,,K12597 protein AIR1/2 | (RefSeq) AIR1; TRAMP complex RNA-binding subunit,Function Inferred
+jgi|Sacce1|5199|YNL175C,EBY / GNHR,3.622144223,Upregulated,,no KO assigned | (RefSeq) NOP13; Nop13p,Function Inferred
+jgi|Sacce1|4987|YMR290C,EBY / GNHR,3.618365704,Upregulated,In phosphorous-containing anhydrides,"K13179 ATP-dependent RNA helicase DDX18/HAS1 [EC:5.6.2.7] | (RefSeq) HAS1; ATP-dependent RNA helicase HAS1",Function Inferred
+jgi|Sacce1|4220|YLR183C,EBY / GNHR,3.617043059,Upregulated,,no KO assigned | (RefSeq) TOS4; Tos4p,Function Inferred
+jgi|Sacce1|4489|YLR435W,EBY / GNHR,3.614779668,Upregulated,,K14800 pre-rRNA-processing protein TSR2 | (RefSeq) TSR2; Tsr2p,Pre-rrna-processing
+jgi|Sacce1|934|YDL082W,EBY / GNHR,3.612046818,Upregulated,,K02873 large subunit ribosomal protein L13e | (RefSeq) RPL13A; ribosomal 60S subunit protein L13A,Function Inferred
+jgi|Sacce1|2447|YGL120C,EBY / GNHR,3.609198344,Upregulated,Adenosinetriphosphatase,"K12820 pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15/PRP43 [EC:5.6.2.6] | (RefSeq) PRP43; DEAH-box ATP-dependent RNA helicase PRP43",Adenosinetriphosphatase
+jgi|Sacce1|3314|YJL122W,EBY / GNHR,3.603917772,Upregulated,,K14814 ribosome biogenesis protein ALB1 | (RefSeq) ALB1; Alb1p,Ribosome biogenesis
+jgi|Sacce1|1082|YDR060W,EBY / GNHR,3.60040429,Upregulated,Exo-alpha-sialidase,"K14832 ribosome biogenesis protein MAK21 | (RefSeq) MAK21, NOC1; RNA-binding ribosome biosynthesis protein MAK21",Ribosome biogenesis
+jgi|Sacce1|4418|YLR367W,EBY / GNHR,3.582696593,Upregulated,,K02957 small subunit ribosomal protein S15Ae | (RefSeq) RPS22B; ribosomal 40S subunit protein S22B,Function Inferred
+jgi|Sacce1|3933|YKR092C,EBY / GNHR,3.548201766,Upregulated,Exo-alpha-sialidase,no KO assigned | (RefSeq) SRP40; Srp40p,Exo-alpha-sialidase
+jgi|Sacce1|331|YBR084W,EBY / GNHR,3.542090127,Upregulated,,K00288 methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase [EC:1.5.1.5 3.5.4.9 6.3.4.3] | (RefSeq) MIS1; trifunctional formate-tetrahydrofolate ligase/methenyltetrahydrofolate cyclohydrolase/methylenetetrahydrofolate dehydrogenase MIS1,Methylenetetrahydrofolate dehydrogenase
+jgi|Sacce1|3582|YJR145C,EBY / GNHR,3.470756721,Upregulated,,K02987 small subunit ribosomal protein S4e | (RefSeq) RPS4A; ribosomal 40S subunit protein S4A,Function Inferred
+jgi|Sacce1|5361|YNL024C,EBY / GNHR,3.466130673,Upregulated,,K21804 protein N-lysine methyltransferase METTL21A [EC:2.1.1.-] | (RefSeq) EFM6; putative protein-lysine N-methyltransferase,Protein n-lysine methyltransferase
+jgi|Sacce1|433|YBR175W,EBY / GNHR,3.442213551,Upregulated,Lanosterol synthase,"K14963 COMPASS component SWD3 | (RefSeq) SWD3, CPS30, SAF35; Swd3p",Lanosterol synthase
+jgi|Sacce1|5905|YOR247W,EBY / GNHR,3.435556996,Upregulated,,no KO assigned | (RefSeq) SRL1; Srl1p,Function Inferred
+jgi|Sacce1|1861|YEL054C,EBY / GNHR,3.413031464,Upregulated,,K02870 large subunit ribosomal protein L12e | (RefSeq) RPL12A; ribosomal 60S subunit protein L12A,Function Inferred
+jgi|Sacce1|3254|YJL177W,EBY / GNHR,3.404534052,Upregulated,,K02880 large subunit ribosomal protein L17e | (RefSeq) RPL17B; ribosomal 60S subunit protein L17B,Function Inferred
+jgi|Sacce1|4259|YLR222C,EBY / GNHR,3.400334459,Upregulated,,K14555 U3 small nucleolar RNA-associated protein 13 | (RefSeq) UTP13; Utp13p,Function Inferred
+jgi|Sacce1|6224|YPL131W,EBY / GNHR,3.396869206,Upregulated,,"K02932 large subunit ribosomal protein L5e | (RefSeq) RPL5, LPI14, RPL1; ribosomal 60S subunit protein L5",Function Inferred
+jgi|Sacce1|4067|YLR048W,EBY / GNHR,3.370053427,Upregulated,,"K02998 small subunit ribosomal protein SAe | (RefSeq) RPS0B, NAB1B, YST2; ribosomal 40S subunit protein S0B",Function Inferred
+jgi|Sacce1|3558|YJR123W,EBY / GNHR,3.364927494,Upregulated,,K02989 small subunit ribosomal protein S5e | (RefSeq) RPS5; ribosomal 40S subunit protein S5,Function Inferred
+jgi|Sacce1|3701|YKL128C,EBY / GNHR,3.361856455,Upregulated,,no KO assigned | (RefSeq) PMU1; putative phosphomutase,Function Inferred
+jgi|Sacce1|6267|YPL090C,EBY / GNHR,3.346074152,Upregulated,,K02991 small subunit ribosomal protein S6e | (RefSeq) RPS6A; ribosomal 40S subunit protein S6A,Function Inferred
+jgi|Sacce1|4486|YLR432W,EBY / GNHR,3.333631296,Upregulated,IMP dehydrogenase,"K00088 IMP dehydrogenase [EC:1.1.1.205] | (RefSeq) IMD3; IMP dehydrogenase IMD3",Imp dehydrogenase
+jgi|Sacce1|419|YBR162C,EBY / GNHR,3.32934657,Upregulated,,no KO assigned | (RefSeq) TOS1; Tos1p,Function Inferred
+jgi|Sacce1|5648|YOR004W,EBY / GNHR,3.324629147,Upregulated,,K14773 U3 small nucleolar RNA-associated protein 23 | (RefSeq) UTP23; rRNA-binding ribosome biosynthesis protein UTP23,Ribosome biogenesis
+jgi|Sacce1|961|YDL055C,EBY / GNHR,3.316483572,Upregulated,Mannose-1-phosphate guanylyltransferase,"K00966 mannose-1-phosphate guanylyltransferase [EC:2.7.7.13] | (RefSeq) PSA1, MPG1, SRB1, VIG9; mannose-1-phosphate guanylyltransferase",Mannose-1-phosphate guanylyltransferase
+jgi|Sacce1|6402|YPR041W,EBY / GNHR,3.309357299,Upregulated,,"K03262 translation initiation factor 5 | (RefSeq) TIF5, SUI5; translation initiation factor eIF5",Function Inferred
+jgi|Sacce1|4212|YLR175W,EBY / GNHR,3.29344378,Upregulated,Pseudouridylate synthase,"K11131 H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-] | (RefSeq) CBF5; pseudouridine synthase CBF5",Pseudouridylate synthase
+jgi|Sacce1|2767|YGR187C,EBY / GNHR,3.292378817,Upregulated,,no KO assigned | (RefSeq) HGH1; Hgh1p,Function Inferred
+jgi|Sacce1|5516|YOL120C,EBY / GNHR,3.285625696,Upregulated,,"K02883 large subunit ribosomal protein L18e | (RefSeq) RPL18A, RP28A; ribosomal 60S subunit protein L18A",Function Inferred
+jgi|Sacce1|3504|YJR070C,EBY / GNHR,3.278232752,Upregulated,,"K06072 deoxyhypusine monooxygenase [EC:1.14.99.29] | (RefSeq) LIA1, MMD1; deoxyhypusine monooxygenase",Deoxyhypusine monooxygenase
+jgi|Sacce1|4102|YLR083C,EBY / GNHR,3.271836128,Upregulated,,"K17086 transmembrane 9 superfamily member 2/4 | (RefSeq) EMP70, TMN1; Emp70p",Function Inferred
+jgi|Sacce1|1189|YDR165W,EBY / GNHR,3.268483,Upregulated,,K15443 tRNA (guanine-N(7)-)-methyltransferase subunit TRM82 | (RefSeq) TRM82; Trm82p,Trna (guanine-n(7)-)-methyltransferase
+jgi|Sacce1|1489|YDR449C,EBY / GNHR,3.26706795,Upregulated,,K14557 U3 small nucleolar RNA-associated protein 6 | (RefSeq) UTP6; snoRNA-binding rRNA-processing protein UTP6,Function Inferred
+jgi|Sacce1|4079|YLR060W,EBY / GNHR,3.242763536,Upregulated,Phenylalanine--tRNA ligase,"K01890 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] | (RefSeq) FRS1; phenylalanine--tRNA ligase subunit beta",Phenylalanine--trna ligase
+jgi|Sacce1|5072|YNL301C,EBY / GNHR,3.242754111,Upregulated,,"K02883 large subunit ribosomal protein L18e | (RefSeq) RPL18B, RP28B; ribosomal 60S subunit protein L18B",Function Inferred
+jgi|Sacce1|82|YAL003W,EBY / GNHR,3.240508454,Upregulated,,"K03232 elongation factor 1-beta | (RefSeq) EFB1, TEF5; translation elongation factor 1 subunit beta",Function Inferred
+jgi|Sacce1|2267|YFR031C-A,EBY / GNHR,3.220979983,Upregulated,,"K02938 large subunit ribosomal protein L8e | (RefSeq) RPL2A, RPL5B; ribosomal 60S subunit protein L2A",Function Inferred
+jgi|Sacce1|5701|YOR051C,EBY / GNHR,3.205957403,Upregulated,,"no KO assigned | (RefSeq) ETT1, NRO1, YOR29-02; Ett1p",Function Inferred
+jgi|Sacce1|5584|YOL056W,EBY / GNHR,3.194383801,Upregulated,Phosphoglycerate mutase,"K01834 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (RefSeq) GPM3; phosphoglycerate mutase family protein GPM3",Phosphoglycerate mutase
+jgi|Sacce1|3935|YKR094C,EBY / GNHR,3.184386024,Upregulated,,"K02927 ubiquitin-large subunit ribosomal protein L40e | (RefSeq) RPL40B, CEP52B, UB12, UBI2; ubiquitin-ribosomal 60S subunit protein L40B fusion protein",Function Inferred
+jgi|Sacce1|3702|YKL127W,EBY / GNHR,3.153286678,Upregulated,Phosphoglucomutase,"K01835 phosphoglucomutase [EC:5.4.2.2] | (RefSeq) PGM1; phosphoglucomutase PGM1",Phosphoglucomutase
+jgi|Sacce1|2395|YGL171W,EBY / GNHR,3.151250012,Upregulated,In phosphorous-containing anhydrides,"K14779 ATP-dependent RNA helicase DDX52/ROK1 [EC:5.6.2.7] | (RefSeq) ROK1; RNA-dependent ATPase ROK1",Function Inferred
+jgi|Sacce1|863|YDL148C,EBY / GNHR,3.146535696,Upregulated,DNA ligase (ATP),"K14766 nucleolar protein 14 | (RefSeq) NOP14, UTP2; snoRNA-binding rRNA-processing protein NOP14",Function Inferred
+jgi|Sacce1|6131|YPL220W,EBY / GNHR,3.146372641,Upregulated,,"K02865 large subunit ribosomal protein L10Ae | (RefSeq) RPL1A, PUB2, SSM1; ribosomal 60S subunit protein L1A",Function Inferred
+jgi|Sacce1|609|YCL036W,EBY / GNHR,3.145340341,Upregulated,,"no KO assigned | (RefSeq) GFD2, YCD6; Gfd2p",Function Inferred
+jgi|Sacce1|4907|YMR215W,EBY / GNHR,3.143459181,Upregulated,Licheninase,"K22834 1,3-beta-glucanosyltransferase GAS3 [EC:2.4.1.-] | (RefSeq) GAS3; putative 1,3-beta-glucanosyltransferase",Licheninase
+jgi|Sacce1|3580|YJR143C,EBY / GNHR,3.131662445,Upregulated,Dolichyl-phosphate-mannose--protein mannosyltransferase,"K00728 dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109] | (RefSeq) PMT4; dolichyl-phosphate-mannose-protein mannosyltransferase",Dolichyl-phosphate-mannose--protein mannosyltransferase
+jgi|Sacce1|5732|YOR079C,EBY / GNHR,3.121304076,Upregulated,,"K14715 solute carrier family 39 (zinc transporter), member 9 | (RefSeq) ATX2, YOR29-30; Mn(2+) transporter ATX2",Function Inferred
+jgi|Sacce1|2585|YGR014W,EBY / GNHR,3.118690874,Upregulated,"Glucan 1,4-alpha-glucosidase",K19849 signaling mucin MSB2 | (RefSeq) MSB2; Msb2p,Signaling mucin processing
+jgi|Sacce1|4935|YMR242C,EBY / GNHR,3.084969549,Upregulated,,"K02882 large subunit ribosomal protein L18Ae | (RefSeq) RPL20A, RPL18A2; ribosomal 60S subunit protein L20A",Function Inferred
+jgi|Sacce1|3427|YJL010C,EBY / GNHR,3.076390693,Upregulated,,K14790 nucleolar protein 9 | (RefSeq) NOP9; RNA-binding RNA processing protein NOP9,Function Inferred
+jgi|Sacce1|3122|YHR154W,EBY / GNHR,3.067015079,Upregulated,,"no KO assigned | (RefSeq) RTT107, ESC4; Rtt107p",Function Inferred
+jgi|Sacce1|1537|YDR496C,EBY / GNHR,3.065446836,Upregulated,,K14844 pumilio homology domain family member 6 | (RefSeq) PUF6; Puf6p,Function Inferred
+jgi|Sacce1|6264|YPL093W,EBY / GNHR,3.064726044,Upregulated,,K06943 nucleolar GTP-binding protein | (RefSeq) NOG1; putative GTPase NOG1,Function Inferred
+jgi|Sacce1|2677|YGR103W,EBY / GNHR,3.056462478,Upregulated,,"K14843 pescadillo | (RefSeq) NOP7, YPH1; mRNA-binding ribosome synthesis protein NOP7",Ribosome synthesis
+jgi|Sacce1|2339|YGL225W,EBY / GNHR,3.049969421,Upregulated,,"K15356 GDP-mannose transporter | (RefSeq) VRG4, GOG5, LDB3, VAN2, VIG4; GDP-mannose transporter",Gdp-mannose transport
+jgi|Sacce1|5322|YNL062C,EBY / GNHR,3.028636485,Upregulated,,"K03256 tRNA (adenine58-N1)-methyltransferase non-catalytic subunit | (RefSeq) GCD10, TRM6; tRNA 1-methyladenosine methyltransferase subunit GCD10",Trna (adenine58-n1)-methyltransferase
+jgi|Sacce1|4123|YLR103C,EBY / GNHR,3.024347738,Upregulated,,"K06628 cell division control protein 45 | (RefSeq) CDC45, SLD4; DNA replication initiation factor CDC45",Function Inferred
+jgi|Sacce1|4233|YLR196W,EBY / GNHR,3.010212939,Upregulated,,K14791 periodic tryptophan protein 1 | (RefSeq) PWP1; rRNA-processing protein PWP1,RrNA-processing
+jgi|Sacce1|2329|YGL234W,EBY / GNHR,3.00363576,Upregulated,,K11788 phosphoribosylamine--glycine ligase / phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.4.13 6.3.3.1] | (RefSeq) ADE57; bifunctional aminoimidazole ribotide synthase/glycinamide ribotide synthase,Phosphoribosylamine--glycine ligase
+jgi|Sacce1|6368|YPR010C,EBY / GNHR,2.999524767,Upregulated,DNA-directed RNA polymerase,"K03002 DNA-directed RNA polymerase I subunit RPA2 [EC:2.7.7.6] | (RefSeq) RPA135, RPA2, RRN2, SRP3; DNA-directed RNA polymerase I core subunit RPA135",Dna-directed rna polymerase
+jgi|Sacce1|3301|YJL133W,EBY / GNHR,2.986758071,Upregulated,,"K15113 solute carrier family 25 (mitochondrial iron transporter), member 28/37 | (RefSeq) MRS3; Fe(2+) transporter",Iron transport
+jgi|Sacce1|4921|YMR229C,EBY / GNHR,2.97929751,Upregulated,Polyribonucleotide nucleotidyltransferase,"K14792 rRNA biogenesis protein RRP5 | (RefSeq) RRP5; Rrp5p",RrNA biogenesis
+jgi|Sacce1|6124|YPL226W,EBY / GNHR,2.972557388,Upregulated,,K03235 elongation factor 3 | (RefSeq) NEW1; New1p,Function Inferred
+jgi|Sacce1|3116|YHR148W,EBY / GNHR,2.960762964,Upregulated,,K14560 U3 small nucleolar ribonucleoprotein protein IMP3 | (RefSeq) IMP3; snoRNA-binding rRNA-processing protein IMP3,Function Inferred
+jgi|Sacce1|3091|YHR128W,EBY / GNHR,2.958162306,Upregulated,Uracil phosphoribosyltransferase,"K00761 uracil phosphoribosyltransferase [EC:2.4.2.9] | (RefSeq) FUR1; uracil phosphoribosyltransferase",Uracil phosphoribosyltransferase
+jgi|Sacce1|6472|YPR110C,EBY / GNHR,2.955938269,Upregulated,DNA-directed RNA polymerase,"K03027 DNA-directed RNA polymerases I and III subunit RPAC1 | (RefSeq) RPC40, RPC5; DNA-directed RNA polymerase core subunit RPC40",Dna-directed rna polymerase
+jgi|Sacce1|6057|YOR390W,EBY / GNHR,2.948672354,Upregulated,,K06199 fluoride exporter | (RefSeq) FEX1; fluoride transporter,Fluoride transport
+jgi|Sacce1|6093|YPL255W,EBY / GNHR,2.947203977,Upregulated,,no KO assigned | (RefSeq) BBP1; Bbp1p,Function Inferred
+jgi|Sacce1|6006|YOR341W,EBY / GNHR,2.943653951,Upregulated,DNA-directed RNA polymerase,"K02999 DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6] | (RefSeq) RPA190, RRN1; DNA-directed RNA polymerase I core subunit RPA190",Dna-directed rna polymerase
+jgi|Sacce1|5307|YNL075W,EBY / GNHR,2.929095982,Upregulated,,K14561 U3 small nucleolar ribonucleoprotein protein IMP4 | (RefSeq) IMP4; snoRNA-binding rRNA-processing protein IMP4,Function Inferred
+jgi|Sacce1|373|YBR121C,EBY / GNHR,2.919825701,Upregulated,Glycine--tRNA ligase,"K01880 glycyl-tRNA synthetase [EC:6.1.1.14] | (RefSeq) GRS1; glycine--tRNA ligase",Glycine--trna ligase
+jgi|Sacce1|5638|YOL007C,EBY / GNHR,2.918819069,Upregulated,,no KO assigned | (RefSeq) CSI2; Csi2p,Function Inferred
+jgi|Sacce1|1819|YIR030C,EBY / GNHR,2.917047856,Upregulated,,no KO assigned | (RefSeq) DCG1; Dcg1p,Function Inferred
+jgi|Sacce1|4651|YML018C,EBY / GNHR,2.911248204,Upregulated,,"K15289 solute carrier family 35, member F5 | (RefSeq) uncharacterized protein",Function Inferred
+jgi|Sacce1|5441|YNR053C,EBY / GNHR,2.90520769,Upregulated,,"K14537 nuclear GTP-binding protein | (RefSeq) NOG2, NUG2; putative GTPase NOG2",Function Inferred
+jgi|Sacce1|5973|YOR312C,EBY / GNHR,2.898811262,Upregulated,,"K02882 large subunit ribosomal protein L18Ae | (RefSeq) RPL20B, RPL18A1; ribosomal 60S subunit protein L20B",Function Inferred
+jgi|Sacce1|1704|YIL069C,EBY / GNHR,2.896645805,Upregulated,,"K02974 small subunit ribosomal protein S24e | (RefSeq) RPS24B, RPS24EB; ribosomal 40S subunit protein S24B",Function Inferred
+jgi|Sacce1|5278|YNL102W,EBY / GNHR,2.893828642,Upregulated,DNA-directed DNA polymerase,"K02320 DNA polymerase alpha subunit A [EC:2.7.7.7] | (RefSeq) POL1, CDC17, CRT5, HPR3; DNA-directed DNA polymerase alpha catalytic subunit POL1",Dna-directed dna polymerase
+jgi|Sacce1|274|YBR031W,EBY / GNHR,2.885064434,Upregulated,,K02930 large subunit ribosomal protein L4e | (RefSeq) RPL4A; ribosomal 60S subunit protein L4A,Function Inferred
+jgi|Sacce1|3388|YJL050W,EBY / GNHR,2.884226642,Upregulated,In phosphorous-containing anhydrides,"K12598 ATP-dependent RNA helicase DOB1 [EC:5.6.2.6] | (RefSeq) MTR4, DOB1; ATP-dependent RNA helicase MTR4",Function Inferred
+jgi|Sacce1|1944|YER016W,EBY / GNHR,2.883948494,Upregulated,,"K10436 microtubule-associated protein, RP/EB family | (RefSeq) BIM1, YEB1; microtubule-binding protein BIM1",Function Inferred
+jgi|Sacce1|4456|YLR404W,EBY / GNHR,2.881452894,Upregulated,,"no KO assigned | (RefSeq) SEI1, FLD1; seipin",Function Inferred
+jgi|Sacce1|4608|YML060W,EBY / GNHR,2.869932631,Upregulated,,K03660 N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18] | (RefSeq) OGG1; 8-oxoguanine glycosylase OGG1,N-glycosylase/dna lyase
+jgi|Sacce1|1975|YER043C,EBY / GNHR,2.865087311,Upregulated,Adenosylhomocysteinase,"K01251 adenosylhomocysteinase [EC:3.13.2.1] | (RefSeq) SAH1; adenosylhomocysteinase",Adenosylhomocysteinase
+jgi|Sacce1|439|YBR181C,EBY / GNHR,2.854219154,Upregulated,,"K02991 small subunit ribosomal protein S6e | (RefSeq) RPS6B, LPG18, RPS101, RPS102; ribosomal 40S subunit protein S6B",Function Inferred
+jgi|Sacce1|142|YBL092W,EBY / GNHR,2.852743896,Upregulated,,K02912 large subunit ribosomal protein L32e | (RefSeq) RPL32; ribosomal 60S subunit protein L32,Function Inferred
+jgi|Sacce1|2672|YGR098C,EBY / GNHR,2.841185798,Upregulated,,K02365 separase [EC:3.4.22.49] | (RefSeq) ESP1; separase,Separase
+jgi|Sacce1|3141|YHR172W,EBY / GNHR,2.834059438,Upregulated,Metalloendopeptidases,"K16569 gamma-tubulin complex component 2 | (RefSeq) SPC97; Spc97p",Function Inferred
+jgi|Sacce1|5864|YOR206W,EBY / GNHR,2.832043,Upregulated,DNA ligase (ATP),"K14833 nucleolar complex protein 2 | (RefSeq) NOC2; mRNA-binding ribosome synthesis protein NOC2",Dna ligase
+jgi|Sacce1|4287|YLR249W,EBY / GNHR,2.817205064,Upregulated,,"K03235 elongation factor 3 | (RefSeq) YEF3, TEF3; translation elongation factor EF-3",Function Inferred
+jgi|Sacce1|5269|YNL110C,EBY / GNHR,2.812392297,Upregulated,,K14838 nucleolar protein 15 | (RefSeq) NOP15; rRNA-binding ribosome biosynthesis protein NOP15,Ribosome biogenesis
+jgi|Sacce1|2795|YGR214W,EBY / GNHR,2.81178818,Upregulated,,"K02998 small subunit ribosomal protein SAe | (RefSeq) RPS0A, NAB1, NAB1A, YST1; ribosomal 40S subunit protein S0A",Function Inferred
+jgi|Sacce1|515|YBR247C,EBY / GNHR,2.805704053,Upregulated,,"K14797 essential nuclear protein 1 | (RefSeq) ENP1, MEG1; snoRNA-binding rRNA-processing protein ENP1",Function Inferred
+jgi|Sacce1|2956|YHR013C,EBY / GNHR,2.796346752,Upregulated,Ribosomal-protein-alanine N-acetyltransferase,"K20791 N-alpha-acetyltransferase 10/11 [EC:2.3.1.255] | (RefSeq) ARD1, NAA10; peptide alpha-N-acetyltransferase complex A subunit ARD1",Ribosomal-protein-alanine n-acetyltransferase
+jgi|Sacce1|4497|YLR441C,EBY / GNHR,2.794849255,Upregulated,,"K02984 small subunit ribosomal protein S3Ae | (RefSeq) RPS1A, RP10A; ribosomal 40S subunit protein S1A",Function Inferred
+jgi|Sacce1|4387|YLR341W,EBY / GNHR,2.791185182,Upregulated,,no KO assigned | (RefSeq) SPO77; Spo77p,Function Inferred
+jgi|Sacce1|3865|YKR026C,EBY / GNHR,2.785419957,Upregulated,,"K03239 translation initiation factor eIF-2B subunit alpha | (RefSeq) GCN3, AAS2; translation initiation factor eIF2B subunit alpha",Function Inferred
+jgi|Sacce1|4811|YMR131C,EBY / GNHR,2.78528997,Upregulated,Transferring groups other than amino-acyl groups,"K14848 ribosome assembly protein RRB1 | (RefSeq) RRB1; ribosome biosynthesis protein RRB1",Ribosome assembly
+jgi|Sacce1|4474|YLR420W,EBY / GNHR,2.781058127,Upregulated,Dihydroorotase,"K01465 dihydroorotase [EC:3.5.2.3] | (RefSeq) URA4; dihydroorotase",Dihydroorotase
+jgi|Sacce1|5060|YNL313C,EBY / GNHR,2.780864615,Upregulated,,K24935 tetratricopeptide repeat protein 27 | (RefSeq) EMW1; tetratricopeptide repeat-containing protein EMW1,Function Inferred
+jgi|Sacce1|3922|YKR081C,EBY / GNHR,2.774371388,Upregulated,,K14847 ribosome production factor 2 | (RefSeq) RPF2; rRNA-binding ribosome biosynthesis protein RPF2,Ribosome biogenesis
+jgi|Sacce1|1860|YEL055C,EBY / GNHR,2.767714957,Upregulated,DNA-directed DNA polymerase,"K02331 DNA polymerase phi [EC:2.7.7.7] | (RefSeq) POL5; DNA-directed DNA polymerase",Dna-directed dna polymerase
+jgi|Sacce1|5407|YNR021W,EBY / GNHR,2.757492618,Upregulated,,K24962 PAT complex subunit CCDC47 | (RefSeq) uncharacterized protein,Unknown Function
+jgi|Sacce1|2237|YFR005C,EBY / GNHR,2.749242473,Upregulated,Ubiquitin thiolesterase,"K12847 U4/U6.U5 tri-snRNP-associated protein 2 | (RefSeq) SAD1; mRNA splicing protein SAD1",Ubiquitin thiolesterase
+jgi|Sacce1|1045|YDR025W,EBY / GNHR,2.748057327,Upregulated,,K02949 small subunit ribosomal protein S11e | (RefSeq) RPS11A; ribosomal 40S subunit protein S11A,Function Inferred
+jgi|Sacce1|1643|YIL127C,EBY / GNHR,2.746427272,Upregulated,,no KO assigned | (RefSeq) RRT14; Rrt14p,Function Inferred
+jgi|Sacce1|411|YBR154C,EBY / GNHR,2.739827441,Upregulated,DNA-directed RNA polymerase,"K03013 DNA-directed RNA polymerases I, II, and III subunit RPABC1 | (RefSeq) RPB5; DNA-directed RNA polymerase core subunit RPB5",Dna-directed rna polymerase
+jgi|Sacce1|3086|YHR123W,EBY / GNHR,2.729390911,Upregulated,Ethanolaminephosphotransferase,"K00993 ethanolaminephosphotransferase [EC:2.7.8.1] | (RefSeq) EPT1; bifunctional diacylglycerol cholinephosphotransferase/ethanolaminephosphotransferase",Ethanolaminephosphotransferase
+jgi|Sacce1|5930|YOR272W,EBY / GNHR,2.728596217,Upregulated,,"K14863 ribosome biogenesis protein | (RefSeq) YTM1, CST14; Ytm1p",Ribosome biogenesis
+jgi|Sacce1|1206|YDR180W,EBY / GNHR,2.726360117,Upregulated,,K06672 cohesin loading factor subunit SCC2 | (RefSeq) SCC2; cohesin-loading factor complex subunit SCC2,Function Inferred
+jgi|Sacce1|3178|YHR203C,EBY / GNHR,2.722594474,Upregulated,,K02987 small subunit ribosomal protein S4e | (RefSeq) RPS4B; ribosomal 40S subunit protein S4B,Function Inferred
+jgi|Sacce1|1143|YDR119W,EBY / GNHR,2.720380393,Upregulated,,no KO assigned | (RefSeq) VBA4; Vba4p,Function Inferred
+jgi|Sacce1|5236|YNL141W,EBY / GNHR,2.719975503,Upregulated,Adenosine deaminase,"K21053 adenine deaminase [EC:3.5.4.2] | (RefSeq) AAH1; adenine deaminase",Adenosine deaminase
+jgi|Sacce1|4755|YMR079W,EBY / GNHR,2.717682908,Upregulated,Protein-tyrosine-phosphatase,"K26544 phosphatidylinositol/phosphatidylcholine transfer protein | (RefSeq) SEC14, PIT1; phosphatidylinositol/phosphatidylcholine transfer protein SEC14",Protein-tyrosine-phosphatase
+jgi|Sacce1|3098|YHR133C,EBY / GNHR,2.715601963,Upregulated,,K26681 insulin-induced protein | (RefSeq) NSG1; Nsg1p,Function Inferred
+jgi|Sacce1|5165|YNL209W,EBY / GNHR,2.710388854,Upregulated,,"K03283 heat shock 70kDa protein 1/6/8 | (RefSeq) SSB2, YG103; Hsp70 family ATPase SSB2",Function Inferred
+jgi|Sacce1|3414|YJL025W,EBY / GNHR,2.70265866,Upregulated,,K15219 RNA polymerase I-specific transcription initiation factor RRN7 | (RefSeq) RRN7; Rrn7p,Function Inferred
+jgi|Sacce1|3737|YKL096W,EBY / GNHR,2.700971576,Upregulated,,"no KO assigned | (RefSeq) CWP1, YJU1; Cwp1p",Function Inferred
+jgi|Sacce1|4316|YLR276C,EBY / GNHR,2.700107559,Upregulated,In phosphorous-containing anhydrides,"K14810 ATP-dependent RNA helicase DDX56/DBP9 [EC:5.6.2.7] | (RefSeq) DBP9; ATP-dependent DNA/RNA helicase",Function Inferred
+jgi|Sacce1|4725|YMR049C,EBY / GNHR,2.695653641,Upregulated,2-acetyl-1-alkylglycerophosphocholine esterase,"K14824 ribosome biogenesis protein ERB1 | (RefSeq) ERB1; Erb1p",Ribosome biogenesis
+jgi|Sacce1|4823|YMR142C,EBY / GNHR,2.69525344,Upregulated,,K02873 large subunit ribosomal protein L13e | (RefSeq) RPL13B; ribosomal 60S subunit protein L13B,Function Inferred
+jgi|Sacce1|163|YBL072C,EBY / GNHR,2.694395261,Upregulated,,K02995 small subunit ribosomal protein S8e | (RefSeq) RPS8A; ribosomal 40S subunit protein S8A,Function Inferred
+jgi|Sacce1|5497|YOL139C,EBY / GNHR,2.680573098,Upregulated,,"K03259 translation initiation factor 4E | (RefSeq) CDC33, TIF45; translation initiation factor eIF4E",Function Inferred
+jgi|Sacce1|2431|YGL135W,EBY / GNHR,2.676376362,Upregulated,,"K02865 large subunit ribosomal protein L10Ae | (RefSeq) RPL1B, SSM2; ribosomal 60S subunit protein L1B",Function Inferred
+jgi|Sacce1|2721|YGR145W,EBY / GNHR,2.658346521,Upregulated,,K14788 ribosome biogenesis protein ENP2 | (RefSeq) ENP2; ribosome biosynthesis protein ENP2,Ribosome biogenesis
+jgi|Sacce1|1815|YIR026C,EBY / GNHR,2.657399115,Upregulated,Protein-tyrosine-phosphatase,"K14819 dual specificity phosphatase 12 [EC:3.1.3.16 3.1.3.48] | (RefSeq) YVH1; tyrosine protein phosphatase YVH1",Protein-tyrosine-phosphatase
+jgi|Sacce1|2659|YGR085C,EBY / GNHR,2.652567489,Upregulated,,K02868 large subunit ribosomal protein L11e | (RefSeq) RPL11B; ribosomal 60S subunit protein L11B,Function Inferred
+jgi|Sacce1|705|YCR057C,EBY / GNHR,2.647653592,Upregulated,,"K14558 periodic tryptophan protein 2 | (RefSeq) PWP2, UTP1, YCR055C, YCR058C; snoRNA-binding rRNA-processing protein PWP2",Function Inferred
+jgi|Sacce1|6026|YOR361C,EBY / GNHR,2.647190653,Upregulated,,"K03253 translation initiation factor 3 subunit B | (RefSeq) PRT1, CDC63, DNA26; translation initiation factor eIF3 core subunit B",Function Inferred
+jgi|Sacce1|6314|YPL043W,EBY / GNHR,2.646956292,Upregulated,,"K14573 nucleolar protein 4 | (RefSeq) NOP4, NOP77; mRNA-binding ribosome biosynthesis protein NOP4",Ribosome biogenesis
+jgi|Sacce1|1400|YDR365C,EBY / GNHR,2.642370719,Upregulated,,no KO assigned | (RefSeq) ESF1; pre-rRNA-processing protein ESF1,Pre-rrna-processing
+jgi|Sacce1|3248|YJL183W,EBY / GNHR,2.637444844,Upregulated,,"K05532 mannan polymerase II complex MNN11 subunit [EC:2.4.1.-] | (RefSeq) MNN11; alpha-1,6-mannosyltransferase",Mannan polymerase
+jgi|Sacce1|5416|YNR030W,EBY / GNHR,2.630142666,Upregulated,,Dolichyl-phosphate-mannose-glycolipid alpha
+jgi|Sacce1|6170|YPL183C,EBY / GNHR,Upregulated,2.051127,"","K24737 WD repeat-containing protein 6 | (RefSeq) RTT10, ERE2, TRM734; Rtt10p",Chromatin Assembly
+jgi|Sacce1|3368|YJL068C,EBY / GNHR,Upregulated,2.042768,Carboxylic ester hydrolases,"K01070 S-formylglutathione hydrolase [EC:3.1.2.12] | (RefSeq) S-formylglutathione hydrolase",Glutathione Metabolism
+jgi|Sacce1|296|YBR053C,EBY / GNHR,Upregulated,2.014404,Gluconolactonase,"no KO assigned | (RefSeq) uncharacterized protein",Gluconolactonase
+jgi|Sacce1|4230|YLR193C,EBY / GNHR,Upregulated,2.003791,"","K27964 PRELI domain-containing protein 1, mitochondrial | (RefSeq) UPS1; Ups1p",Mitochondrial Lipid Transport
+jgi|Sacce1|2838|YGR256W,GNSR / EBY,Downregulated,-2.097701,Phosphogluconate dehydrogenase (decarboxylating),"K00033 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343] | (RefSeq) GND2; phosphogluconate dehydrogenase (decarboxylating) GND2",Pentose Phosphate Pathway
+jgi|Sacce1|3454|YJR016C,GNSR / EBY,Downregulated,-2.308749,Dihydroxy-acid dehydratase,"K01687 dihydroxy-acid dehydratase [EC:4.2.1.9] | (RefSeq) ILV3; dihydroxy-acid dehydratase",Valine, Leucine and Isoleucine Biosynthesis
+jgi|Sacce1|3128|YHR160C,GNSR / EBY,Downregulated,-2.419952,"","no KO assigned | (RefSeq) PEX18; Pex18p",Peroxisome Biogenesis
+jgi|Sacce1|5028|YMR323W,GNSR / EBY,Downregulated,-2.447346,Phosphopyruvate hydratase,"K01689 enolase 1/2/3 [EC:4.2.1.11] | (RefSeq) ERR3; phosphopyruvate hydratase ERR3",Glycolysis / Gluconeogenesis
+jgi|Sacce1|1026|YDR007W,GNSR / EBY,Downregulated,-2.519713,Phosphoribosylanthranilate isomerase,"K01817 phosphoribosylanthranilate isomerase [EC:5.3.1.24] | (RefSeq) TRP1; phosphoribosylanthranilate isomerase TRP1",Tryptophan Biosynthesis
+jgi|Sacce1|2817|YGR236C,GNSR / EBY,Downregulated,-2.550020,"","no KO assigned | (RefSeq) SPG1; Spg1p",Function Inferred
+jgi|Sacce1|4201|YLR164W,GNSR / EBY,Downregulated,-2.692960,Succinate dehydrogenase (ubiquinone),"K00237 succinate dehydrogenase (ubiquinone) membrane anchor subunit | (RefSeq) SHH4; protein SHH4",TCA Cycle
+jgi|Sacce1|5884|YOR226C,GNSR / EBY,Downregulated,-2.916581,"","K22068 iron-sulfur cluster assembly enzyme ISCU, mitochondrial | (RefSeq) ISU2, NUA2; putative iron-binding protein ISU2",Iron-Sulfur Cluster Assembly
+jgi|Sacce1|1168|YDR144C,GNSR / EBY,Upregulated,2.842019,Yapsin 1,"K06009 yapsin 1/2 [EC:3.4.23.41] | (RefSeq) MKC7, YPS2; aspartyl protease",Protein Processing
+jgi|Sacce1|4253|YLR216C,GNSR / EBY,Upregulated,2.670668,Peptidylprolyl isomerase,"K05864 peptidyl-prolyl isomerase D [EC:5.2.1.8] | (RefSeq) CPR6, CYP40; peptidylprolyl isomerase CPR6",Protein Folding
+jgi|Sacce1|2794|YGR213C,GNSR / EBY,Upregulated,2.159970,"","no KO assigned | (RefSeq) RTA1; Rta1p",Mitochondrial Function
+jgi|Sacce1|3079|YHR116W,GNSR / EBY,Upregulated,2.137253,"","K18185 cytochrome c oxidase assembly protein subunit 23 | (RefSeq) COX23; Cox23p",Cytochrome C Oxidase Assembly
+jgi|Sacce1|5023|YMR318C,GNSR / EBY,Upregulated,2.122287,"With NAD(+) or NADP(+) as acceptor","K00002 alcohol dehydrogenase (NADP+) [EC:1.1.1.2] | (RefSeq) ADH6, ADHVI; NADP-dependent alcohol dehydrogenase",Alcohol Dehydrogenase
+jgi|Sacce1|2803|YGR222W,GNSR / EBY,Upregulated,2.074064,"","K17666 protein PET54, mitochondrial | (RefSeq) PET54; Pet54p",Function Inferred
+jgi|Sacce1|444|YBR185C,GNSR / EBY,Upregulated,2.005327,"","K17801 mitochondrial protein MBA1 | (RefSeq) MBA1; Mba1p",Function Inferred
+jgi|Sacce1|4743|YMR068W,GNSR / GNHR,Downregulated,-2.039250,"","K25576 target of rapamycin complex 2 subunit AVO2 | (RefSeq) AVO2; Avo2p",Signal Transduction
+jgi|Sacce1|300|YBR056W-A,GNSR / GNHR,Downregulated,-2.054480,"","no KO assigned | (RefSeq) MNC1; Mnc1p",Function Inferred
+jgi|Sacce1|4871|YMR182W-A,GNSR / GNHR,Downregulated,-2.136102,"","no KO assigned | (RefSeq) MIN3; Min3p",Function Inferred
+jgi|Sacce1|5958|YOR298C-A,GNSR / GNHR,Downregulated,-2.206849,"","K03627 putative transcription factor | (RefSeq) MBF1, SUF13; multiprotein-bridging factor 1",Function Inferred
+jgi|Sacce1|6334|YPL024W,GNSR / GNHR,Downregulated,-2.388455,"","K15364 RecQ-mediated genome instability protein 1 | (RefSeq) RMI1, NCE4; Rmi1p",DNA Repair
+jgi|Sacce1|2214|YFL016C,GNSR / GNHR,Downregulated,-2.480919,"","K03686 molecular chaperone DnaJ | (RefSeq) MDJ1; Mdj1p",Protein Folding
+jgi|Sacce1|3332|YJL102W,GNSR / GNHR,Downregulated,-2.516491,"","K02355 elongation factor G | (RefSeq) MEF2; Mef2p",Translation
+jgi|Sacce1|1172|YDR148C,GNSR / GNHR,Downregulated,-2.524063,Dihydrolipoamide S-succinyltransferase,"K00658 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61] | (RefSeq) KGD2; dihydrolipoyl transsuccinylase",TCA Cycle
+jgi|Sacce1|334|YBR085C-A,GNSR / GNHR,Downregulated,-2.550553,"","no KO assigned | (RefSeq) uncharacterized protein",Unknown Function
+jgi|Sacce1|6422|YPR061C,GNSR / GNHR,Downregulated,-2.565562,"","no KO assigned | (RefSeq) JID1; Jid1p",Unknown Function
+jgi|Sacce1|3320|YJL116C,GNSR / GNHR,Downregulated,-2.593643,"","K01238 SUN family beta-glucosidase [EC:3.2.1.-] | (RefSeq) NCA3; SUN family protein NCA3",Function Inferred
+jgi|Sacce1|5331|YNL052W,GNSR / GNHR,Downregulated,-2.975176,Cytochrome-c oxidase,"K02263 cytochrome c oxidase subunit 4 | (RefSeq) COX5A; cytochrome c oxidase subunit Va",Oxidative Phosphorylation
+jgi|Sacce1|6221|YPL134C,GNSR / GNHR,Downregulated,-3.041410,"","K15110 solute carrier family 25 (mitochondrial 2-oxodicarboxylate transporter), member 21 | (RefSeq) ODC1; mitochondrial 2-oxodicarboxylate carrier",Transport
+jgi|Sacce1|1902|YEL020C,GNSR / GNHR,Downregulated,-3.146638,Carbon-carbon lyases,"K12261 2-hydroxyacyl-CoA lyase [EC:4.1.2.63] | (RefSeq) PXP1; putative indolepyruvate decarboxylase family protein",Function Inferred
+jgi|Sacce1|4711|YMR034C,GNSR / GNHR,Downregulated,-3.223945,"","K14347 solute carrier family 10 (sodium/bile acid cotransporter), member 7 | (RefSeq) RCH1; Rch1p",Transport
+jgi|Sacce1|190|YBL049W,GNSR / GNHR,Downregulated,-3.474561,Peptidylprolyl isomerase,"no KO assigned | (RefSeq) MOH1; Moh1p",Peptidylprolyl Isomerase
+jgi|Sacce1|2109|YER150W,GNSR / GNHR,Downregulated,-3.594305,"","no KO assigned | (RefSeq) SPI1; Spi1p",Unknown Function
+jgi|Sacce1|6341|YPL017C,GNSR / GNHR,Downregulated,-3.825605,Dihydrolipoamide dehydrogenase,"no KO assigned | (RefSeq) IRC15; Irc15p",Dihydrolipoamide Dehydrogenase
+jgi|Sacce1|2616|YGR043C,GNSR / GNHR,Downregulated,-4.040834,Transaldolase,"K00616 transaldolase [EC:2.2.1.2] | (RefSeq) NQM1; sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate transaldolase NQM1",Pentose Phosphate Pathway
+jgi|Sacce1|2825|YGR243W,GNSR / GNHR,Downregulated,-4.105974,"","K22139 mitochondrial pyruvate carrier 2 | (RefSeq) MPC3, FMP43; mitochondrial pyruvate carrier",Transport
+jgi|Sacce1|6165|YPL187W,GNSR / GNHR,Upregulated,5.151729,"","K11234 mating pheromone alpha-factor | (RefSeq) MF(ALPHA)1; Mf(Alpha)1p",Mating Pheromone
+jgi|Sacce1|3089|YHR126C,GNSR / GNHR,Upregulated,3.331578,"","no KO assigned | (RefSeq) ANS1; Ans1p",Unknown Function
+jgi|Sacce1|342|YBR092C,GNSR / GNHR,Upregulated,3.040550,Acid phosphatase,"K01078 acid phosphatase [EC:3.1.3.2] | (RefSeq) PHO3; acid phosphatase PHO3",Acid Phosphatase
+jgi|Sacce1|4891|YMR199W,GNSR / GNHR,Upregulated,2.645446,"","K12760 G1/S-specific cyclin CLN1 | (RefSeq) CLN1; cyclin CLN1",Cell Cycle
+jgi|Sacce1|4327|YLR286C,GNSR / GNHR,Upregulated,2.391023,Chitinase,"K01183 chitinase [EC:3.2.1.14] | (RefSeq) CTS1, SCW2; chitinase",Chitin Biosynthesis
+jgi|Sacce1|6325|YPL033C,GNSR / GNHR,Upregulated,2.244131,"","no KO assigned | (RefSeq) SRL4; Srl4p",Unknown Function
+jgi|Sacce1|778|YDL229W,GNSR / GNHR,Upregulated,2.219183,"","K03283 heat shock 70kDa protein 1/6/8 | (RefSeq) SSB1, YG101; Hsp70 family ATPase SSB1",Protein Folding
+jgi|Sacce1|826|YDL182W,GNSR / GNHR,Upregulated,2.178022,"","K01655 homocitrate synthase [EC:2.3.3.14] | (RefSeq) LYS20; homocitrate synthase LYS20",Lysine Biosynthesis
+jgi|Sacce1|2032|YER086W,GNSR / GNHR,Upregulated,2.161202,"","K01754 threonine dehydratase [EC:4.3.1.19] | (RefSeq) ILV1, ISO1; threonine ammonia-lyase ILV1",Isoleucine Biosynthesis
+jgi|Sacce1|325|YBR078W,GNSR / GNHR,Upregulated,2.159380,Licheninase,"no KO assigned | (RefSeq) ECM33; Ecm33p",Function Inferred
+jgi|Sacce1|3775|YKL060C,GNSR / GNHR,Upregulated,2.116856,Fructose-bisphosphate aldolase,"K01624 fructose-bisphosphate aldolase, class II [EC:4.1.2.13] | (RefSeq) FBA1, LOT1; fructose-bisphosphate aldolase FBA1",Glycolysis / Gluconeogenesis
+jgi|Sacce1|4220|YLR183C,GNSR / GNHR,Upregulated,2.092723,"","no KO assigned | (RefSeq) TOS4; Tos4p",Unknown Function
+jgi|Sacce1|3241|YJL190C,GNSR / GNHR,Upregulated,2.062590,"","K02957 small subunit ribosomal protein S15Ae | (RefSeq) RPS22A, RPS24; ribosomal 40S subunit protein S22A",Function Inferred
+jgi|Sacce1|1647|YIL123W,GNSR / GNHR,Upregulated,2.006714,Exo-alpha-sialidase,"K01238 SUN family beta-glucosidase [EC:3.2.1.-] | (RefSeq) SIM1; putative glucosidase SIM1",Function Inferred
+jgi|Sacce1|159|YBL076C,GNUR / EBY,Downregulated,-2.004999,Isoleucine--tRNA ligase,"K01870 isoleucyl-tRNA synthetase [EC:6.1.1.5] | (RefSeq) ILS1; isoleucine--tRNA ligase",Isoleucyl-trna Synthetase
+jgi|Sacce1|218|YBL024W,GNUR / EBY,Downregulated,-2.007560,"","K15334 multisite-specific tRNA:(cytosine-C5)-methyltransferase [EC:2.1.1.202] | (RefSeq) NCL1, TRM4; tRNA (cytosine-C5-)-methyltransferase",Trna:(cytosine-c5)-methyltransferase
+jgi|Sacce1|3580|YJR143C,GNUR / EBY,Downregulated,-2.013990,Dolichyl-phosphate-mannose--protein mannosyltransferase,"K00728 dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109] | (RefSeq) PMT4; dolichyl-phosphate-mannose-protein mannosyltransferase",Dolichyl-phosphate-mannose-protein Mannosyltransferase
+jgi|Sacce1|4249|YLR212C,GNUR / EBY,Downregulated,-2.015204,"","K10389 tubulin gamma | (RefSeq) TUB4; gamma-tubulin",Function Inferred
+jgi|Sacce1|6435|YPR074C,GNUR / EBY,Downregulated,-2.021978,Transketolase,"K00615 transketolase [EC:2.2.1.1] | (RefSeq) TKL1; transketolase TKL1",Pentose Phosphate Pathway
+jgi|Sacce1|2677|YGR103W,GNUR / EBY,Downregulated,-2.025985,"","K14843 pescadillo | (RefSeq) NOP7, YPH1; mRNA-binding ribosome synthesis protein NOP7",RNA Synthesis
+jgi|Sacce1|4102|YLR083C,GNUR / EBY,Downregulated,-2.027682,"","K17086 transmembrane 9 superfamily member 2/4 | (RefSeq) EMP70, TMN1; Emp70p",Function Inferred
+jgi|Sacce1|6267|YPL090C,GNUR / EBY,Downregulated,-2.033537,"","K02991 small subunit ribosomal protein S6e | (RefSeq) RPS6A; ribosomal 40S subunit protein S6A",Function Inferred
+jgi|Sacce1|4079|YLR060W,GNUR / EBY,Downregulated,-2.035456,Phenylalanine--tRNA ligase,"K01890 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] | (RefSeq) FRS1; phenylalanine--tRNA ligase subunit beta",Phenylalanyl-trna Synthetase
+jgi|Sacce1|4123|YLR103C,GNUR / EBY,Downregulated,-2.035841,"","K06628 cell division control protein 45 | (RefSeq) CDC45, SLD4; DNA replication initiation factor CDC45",Function Inferred
+jgi|Sacce1|3254|YJL177W,GNUR / EBY,Downregulated,-2.037744,"","K02880 large subunit ribosomal protein L17e | (RefSeq) RPL17B; ribosomal 60S subunit protein L17B",Function Inferred
+jgi|Sacce1|5781|YOR128C,GNUR / EBY,Downregulated,-2.038980,Phosphoribosylaminoimidazole carboxylase,"K11808 phosphoribosylaminoimidazole carboxylase [EC:4.1.1.21] | (RefSeq) ADE2; phosphoribosylaminoimidazole carboxylase ADE2",Purine Biosynthesis
+jgi|Sacce1|6094|YPL254W,GNUR / EBY,Downregulated,-2.056226,"","K11362 transcriptional coactivator HFI1/ADA1 | (RefSeq) HFI1, ADA1, GAN1, SRM12, SUP110; Hfi1p",Function Inferred
+jgi|Sacce1|3558|YJR123W,GNUR / EBY,Downregulated,-2.065526,"","K02989 small subunit ribosomal protein S5e | (RefSeq) RPS5; ribosomal 40S subunit protein S5",Function Inferred
+jgi|Sacce1|2032|YER086W,GNUR / EBY,Downregulated,-2.080390,"","K01754 threonine dehydratase [EC:4.3.1.19] | (RefSeq) ILV1, ISO1; threonine ammonia-lyase ILV1",Isoleucine Biosynthesis
+jgi|Sacce1|6075|YPL273W,GNUR / EBY,Downregulated,-2.092086,Homocysteine S-methyltransferase,"K00547 homocysteine S-methyltransferase [EC:2.1.1.10] | (RefSeq) SAM4; S-adenosylmethionine-homocysteine S-methyltransferase",Methionine Metabolism
+jgi|Sacce1|2443|YGL123W,GNUR / EBY,Downregulated,-2.093903,"","K02981 small subunit ribosomal protein S2e | (RefSeq) RPS2, RPS4, SUP138, SUP38, SUP44; ribosomal 40S subunit protein S2",Function Inferred
+jgi|Sacce1|2267|YFR031C-A,GNUR / EBY,Downregulated,-2.097931,"","K02938 large subunit ribosomal protein L8e | (RefSeq) RPL2A, RPL5B; ribosomal 60S subunit protein L2A",Function Inferred
+jgi|Sacce1|3477|YJR043C,GNUR / EBY,Downregulated,-2.101403,DNA-directed DNA polymerase,"K03504 DNA polymerase delta subunit 3 | (RefSeq) POL32, REV5; DNA polymerase delta subunit POL32",DNA-directed DNA Polymerase
+jgi|Sacce1|3325|YJL109C,GNUR / EBY,Downregulated,-2.108576,"","K14550 U3 small nucleolar RNA-associated protein 10 | (RefSeq) UTP10; snoRNA-binding rRNA-processing protein UTP10",RNA Processing
+jgi|Sacce1|3702|YKL127W,GNUR / EBY,Downregulated,-2.114155,Phosphoglucomutase,"K01835 phosphoglucomutase [EC:5.4.2.2] | (RefSeq) PGM1; phosphoglucomutase PGM1",Starch & Sucrose Metabolism
+jgi|Sacce1|3439|YJR003C,GNUR / EBY,Downregulated,-2.116700,"","no KO assigned | (RefSeq) MRX12; Mrx12p",Unknown Function
+jgi|Sacce1|2548|YGL021W,GNUR / EBY,Downregulated,-2.119351,"","K16315 serine/threonine-protein kinase haspin [EC:2.7.11.1] | (RefSeq) ALK1; protein kinase ALK1",Serine/Threonine-Protein Kinase
+jgi|Sacce1|5638|YOL007C,GNUR / EBY,Downregulated,-2.146436,"","no KO assigned | (RefSeq) CSI2; Csi2p",Unknown Function
+jgi|Sacce1|6480|YPR118W,GNUR / EBY,Downregulated,-2.150564,"","K08963 methylthioribose-1-phosphate isomerase [EC:5.3.1.23] | (RefSeq) MRI1; S-methyl-5-thioribose-1-phosphate isomerase MRI1",Methionine Metabolism
+jgi|Sacce1|1374|YDR341C,GNUR / EBY,Downregulated,-2.151584,Arginine--tRNA ligase,"K01887 arginyl-tRNA synthetase [EC:6.1.1.19] | (RefSeq) RRS1; arginine--tRNA ligase",Arginyl-trna Synthetase
+jgi|Sacce1|3314|YJL122W,GNUR / EBY,Downregulated,-2.154628,"","K14814 ribosome biogenesis protein ALB1 | (RefSeq) ALB1; Alb1p",Ribosome Biogenesis
+jgi|Sacce1|5884|YOR226C,GNUR / EBY,Downregulated,-2.158258,"","K22068 iron-sulfur cluster assembly enzyme ISCU, mitochondrial | (RefSeq) ISU2, NUA2; putative iron-binding protein ISU2",Iron-Sulfur Cluster Assembly
+jgi|Sacce1|2081|YER127W,GNUR / EBY,Downregulated,-2.158360,"","K14765 U3 small nucleolar ribonucleoprotein protein LCP5 | (RefSeq) LCP5; Lcp5p",RNA Processing
+jgi|Sacce1|6463|YPR102C,GNUR / EBY,Downregulated,-2.177246,"","K02868 large subunit ribosomal protein L11e | (RefSeq) RPL11A; ribosomal 60S subunit protein L11A",Function Inferred
+jgi|Sacce1|2491|YGL076C,GNUR / EBY,Downregulated,-2.192771,"","K02937 large subunit ribosomal protein L7e | (RefSeq) RPL7A; ribosomal 60S subunit protein L7A",Function Inferred
+jgi|Sacce1|3863|YKR024C,GNUR / EBY,Downregulated,-2.200187,Adenosinetriphosphatase,"K14806 ATP-dependent RNA helicase DDX31/DBP7 [EC:5.6.2.7] | (RefSeq) DBP7; putative ATP-dependent RNA helicase",ATP-dependent RNA Helicase
+jgi|Sacce1|4907|YMR215W,GNUR / EBY,Downregulated,-2.200390,Licheninase,"K22834 1,3-beta-glucanosyltransferase GAS3 [EC:2.4.1.-] | (RefSeq) GAS3; putative 1,3-beta-glucanosyltransferase",1,3-beta-glucanosyltransferase
+jgi|Sacce1|3138|YHR169W,GNUR / EBY,Downregulated,-2.210716,In phosphorous-containing anhydrides,"K14778 ATP-dependent RNA helicase DDX49/DBP8 [EC:5.6.2.7] | (RefSeq) DBP8; ATP-dependent RNA helicase DBP8",ATP-dependent RNA Helicase
+jgi|Sacce1|2765|YGR185C,GNUR / EBY,Downregulated,-2.212896,Tyrosine--tRNA ligase,"K01866 tyrosyl-tRNA synthetase [EC:6.1.1.1] | (RefSeq) TYS1, TTS1; tyrosine--tRNA ligase",Tyrosyl-trna Synthetase
+jgi|Sacce1|3171|YHR197W,GNUR / EBY,Downregulated,-2.213538,"","K14828 pre-rRNA-processing protein RIX1 | (RefSeq) RIX1, IPI2; Rix1p",RNA Processing
+jgi|Sacce1|3935|YKR094C,GNUR / EBY,Downregulated,-2.219464,"","K02927 ubiquitin-large subunit ribosomal protein L40e | (RefSeq) RPL40B, CEP52B, UB12, UBI2; ubiquitin-ribosomal 60S subunit protein L40B fusion protein",Function Inferred
+jgi|Sacce1|331|YBR084W,GNUR / EBY,Downregulated,-2.232308,"","K00288 methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase [EC:1.5.1.5 3.5.4.9 6.3.4.3] | (RefSeq) MIS1; trifunctional formate-tetrahydrofolate ligase/methenyltetrahydrofolate cyclohydrolase/methylenetetrahydrofolate dehydrogenase MIS1",One Carbon Pool by Folate
+jgi|Sacce1|934|YDL082W,GNUR / EBY,Downregulated,-2.235106,"","K02873 large subunit ribosomal protein L13e | (RefSeq) RPL13A; ribosomal 60S subunit protein L13A",Function Inferred
+jgi|Sacce1|1170|YDR146C,GNUR / EBY,Downregulated,-2.251445,"","K09202 regulatory protein SWI5 | (RefSeq) SWI5; DNA-binding transcription factor SWI5",Function Inferred
+jgi|Sacce1|4287|YLR249W,GNUR / EBY,Downregulated,-2.253391,"","K03235 elongation factor 3 | (RefSeq) YEF3, TEF3; translation elongation factor EF-3",Function Inferred
+jgi|Sacce1|2909|YHL028W,GNUR / EBY,Downregulated,-2.257903,"","no KO assigned | (RefSeq) WSC4, YFW1, YHC8; Wsc4p",Unknown Function
+jgi|Sacce1|1110|YDR087C,GNUR / EBY,Downregulated,-2.264504,"","K14849 ribosomal RNA-processing protein 1 | (RefSeq) RRP1; Rrp1p",RNA Processing
+jgi|Sacce1|6006|YOR341W,GNUR / EBY,Downregulated,-2.268526,DNA-directed RNA polymerase,"K02999 DNA-directed RNA polymerase I subunit RPA1 [EC:2.7.7.6] | (RefSeq) RPA190, RRN1; DNA-directed RNA polymerase I core subunit RPA190",DNA-directed RNA Polymerase
+jgi|Sacce1|4344|YLR300W,GNUR / EBY,Downregulated,-2.279153,Glucan 1,3-beta-glucosidase,"K01210 glucan 1,3-beta-glucosidase [EC:3.2.1.58] | (RefSeq) EXG1, BGL1, SCW6; glucan 1,3-beta-glucosidase",Glucan Metabolism
+jgi|Sacce1|4233|YLR196W,GNUR / EBY,Downregulated,-2.287366,"","K14791 periodic tryptophan protein 1 | (RefSeq) PWP1; rRNA-processing protein PWP1",RNA Processing
+jgi|Sacce1|1114|YDR091C,GNUR / EBY,Downregulated,-2.288146,"","K06174 ATP-binding cassette, sub-family E, member 1 | (RefSeq) RLI1; Fe-S cluster-binding ribosome biosynthesis protein",ATP-binding Cassette, sub-family E, member 1
+jgi|Sacce1|2339|YGL225W,GNUR / EBY,Downregulated,-2.288389,"","K15356 GDP-mannose transporter | (RefSeq) VRG4, GOG5, LDB3, VAN2, VIG4; GDP-mannose transporter",GDP-mannose Transport
+jgi|Sacce1|1082|YDR060W,GNUR / EBY,Downregulated,-2.292792,Exo-alpha-sialidase,"K14832 ribosome biogenesis protein MAK21 | (RefSeq) MAK21, NOC1; RNA-binding ribosome biosynthesis protein MAK21",Ribosome Biogenesis
+jgi|Sacce1|5600|YOL041C,GNUR / EBY,Downregulated,-2.296980,"","K14837 nucleolar protein 12 | (RefSeq) NOP12; Nop12p",Function Inferred
+jgi|Sacce1|1333|YDR303C,GNUR / EBY,Downregulated,-2.299543,"","K11758 chromatin structure-remodeling complex subunit RSC3/30 | (RefSeq) RSC3; Rsc3p",Function Inferred
+jgi|Sacce1|3825|YKL014C,GNUR / EBY,Downregulated,-2.300963,"","K14861 nucleolar pre-ribosomal-associated protein 1 | (RefSeq) URB1, NPA1; Urb1p",Function Inferred
+jgi|Sacce1|3112|YHR144C,GNUR / EBY,Downregulated,-2.305925,dCMP deaminase,"K01493 dCMP deaminase [EC:3.5.4.12] | (RefSeq) DCD1; deoxycytidine monophosphate deaminase",Pyrimidine Metabolism
+jgi|Sacce1|658|YCR016W,GNUR / EBY,Downregulated,-2.309679,"","no KO assigned | (RefSeq) RBP95; RNA-binding ribosome assembly factor RBP95",Ribosome Assembly
+jgi|Sacce1|4504|YLR448W,GNUR / EBY,Downregulated,-2.325364,"","K02934 large subunit ribosomal protein L6e | (RefSeq) RPL6B; ribosomal 60S subunit protein L6B",Function Inferred
+jgi|Sacce1|6500|YPR137W,GNUR / EBY,Downregulated,-2.329115,"","K14793 ribosomal RNA-processing protein 9 | (RefSeq) RRP9; Rrp9p",RNA Processing
+jgi|Sacce1|841|YDL167C,GNUR / EBY,Downregulated,-2.331085,"","no KO assigned | (RefSeq) NRP1; Nrp1p",Unknown Function
+jgi|Sacce1|3237|YJL194W,GNUR / EBY,Downregulated,-2.335497,"","K02213 cell division control protein 6 | (RefSeq) CDC6; AAA family ATPase CDC6",Function Inferred

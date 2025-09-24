@@ -1,0 +1,36 @@
+Geneid,log2FoldChange,pvalue,-log10(pvalue),comparison,Regulation,JGI_annotation,KEGG_annotation
+jgi|Sacce1|3765|YKL068W-A,-2.0639295516521776,2.242426330834133e-06,5.649281815680864,GNSR / EBY,Downregulated,,no KO assigned | (RefSeq) uncharacterized protein
+jgi|Sacce1|1375|YDR342C,6.735570020670652,5.13310214866024e-05,4.289620093199189,GNSR / EBY,Upregulated,L-arabinose isomerase,"K08139 MFS transporter, SP family, sugar:H+ symporter | (RefSeq) HXT7; hexose transporter HXT7"
+jgi|Sacce1|2830|YGR248W,5.04551472796624,2.9472607064544194e-07,6.5305814459733895,GNSR / EBY,Upregulated,6-phosphogluconolactonase,K01057 6-phosphogluconolactonase [EC:3.1.1.31] | (RefSeq) SOL4; 6-phosphogluconolactonase SOL4
+jgi|Sacce1|5913|YOR255W,4.96073939778594,7.68608782468438e-05,4.114294657399918,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) OSW1; Osw1p
+jgi|Sacce1|1988|YER053C,4.016463388810022,2.8084513776117124e-06,5.551533090612024,GNSR / EBY,Upregulated,,"K15102 solute carrier family 25 (mitochondrial phosphate transporter), member 3 | (RefSeq) PIC2; Cu/Pi carrier"
+jgi|Sacce1|3102|YHR137W,3.917381400375848,3.0392256645865966e-06,5.517237052060181,GNSR / EBY,Upregulated,Transaminases (aminotransferases),K05821 aromatic amino acid aminotransferase II [EC:2.6.1.58 2.6.1.28] | (RefSeq) ARO9; aromatic-amino-acid:2-oxoglutarate transaminase
+jgi|Sacce1|2023|YER079W,3.553996649477743,5.978664493535835e-07,6.22339581732652,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) uncharacterized protein
+jgi|Sacce1|2359|YGL205W,3.293945098078122,5.616483993283775e-06,5.250535474497287,GNSR / EBY,Upregulated,Acyl-CoA oxidase,"K00232 acyl-CoA oxidase [EC:1.3.3.6] | (RefSeq) POX1, FOX1; acyl-CoA oxidase"
+jgi|Sacce1|5469|YOL165C,3.2381659501242694,2.572174791771263e-05,4.589699522325413,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) AAD15; putative aryl-alcohol dehydrogenase
+jgi|Sacce1|6120|YPL230W,3.227423198972685,1.717605313143753e-06,5.765076625147585,GNSR / EBY,Upregulated,,"K21544 C2H2 transcription facotor | (RefSeq) USV1, NSF1; Usv1p"
+jgi|Sacce1|402|YBR145W,3.128035049347231,2.4725146588715983e-05,4.606861124908468,GNSR / EBY,Upregulated,Alcohol dehydrogenase,"K13953 alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1] | (RefSeq) ADH5; alcohol dehydrogenase ADH5"
+jgi|Sacce1|5289|YNL093W,2.9736666782603223,1.3720490656491598e-05,4.862630357609104,GNSR / EBY,Upregulated,,"K07976 Rab family, other | (RefSeq) YPT53; Rab family GTPase YPT53"
+jgi|Sacce1|293|YBR050C,2.9449417826800794,6.02029459385792e-05,4.22038225668959,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) REG2; protein phosphatase regulator REG2
+jgi|Sacce1|5232|YNL144C,2.8949294619667194,1.5994288343025488e-05,4.7960350788416966,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) uncharacterized protein
+jgi|Sacce1|1288|YDR258C,2.8059203933047736,1.0112403642745567e-06,5.995145603587163,GNSR / EBY,Upregulated,,K03695 ATP-dependent Clp protease ATP-binding subunit ClpB | (RefSeq) HSP78; chaperone ATPase HSP78
+jgi|Sacce1|1092|YDR070C,2.731498286435818,5.9019880736844483e-05,4.229001672426413,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) FMP16; Fmp16p
+jgi|Sacce1|2532|YGL037C,2.6710834556917784,5.678791000214544e-05,4.245744114610044,GNSR / EBY,Upregulated,Nicotinamidase,K01440 nicotinamidase [EC:3.5.1.19] | (RefSeq) PNC1; nicotinamidase
+jgi|Sacce1|6325|YPL033C,2.6233754050618208,2.3285095139506677e-05,4.632921983263637,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) SRL4; Srl4p
+jgi|Sacce1|6243|YPL113C,2.5139969484985936,5.544888994175547e-05,4.256107143779849,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) glyoxylate reductase
+jgi|Sacce1|1660|YIL111W,2.477536395714755,9.120825991203956e-05,4.039965829744138,GNSR / EBY,Upregulated,Cytochrome-c oxidase,K02263 cytochrome c oxidase subunit 4 | (RefSeq) COX5B; cytochrome c oxidase subunit Vb
+jgi|Sacce1|427|YBR169C,2.475698738093272,6.942809331662127e-06,5.15846476148175,GNSR / EBY,Upregulated,,K09485 heat shock protein 110kDa | (RefSeq) SSE2; adenyl-nucleotide exchange factor SSE2
+jgi|Sacce1|2616|YGR043C,2.469581488108563,9.727028219427155e-05,4.012019824175539,GNSR / EBY,Upregulated,Transaldolase,K00616 transaldolase [EC:2.2.1.2] | (RefSeq) NQM1; sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate transaldolase NQM1
+jgi|Sacce1|839|YDL169C,2.457152388010333,4.534000757091883e-05,4.343518411690578,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) UGX2; Ugx2p
+jgi|Sacce1|4534|YML128C,2.424979363687422,1.1693300544493565e-05,4.932062887816322,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) MSC1; Msc1p
+jgi|Sacce1|54|YAL028W,2.3621876636602495,7.238053303900381e-06,5.1403782228989225,GNSR / EBY,Upregulated,,"no KO assigned | (RefSeq) FRT2, HPH2; Frt2p"
+jgi|Sacce1|3727|YKL103C,2.356906956028549,6.223237314161481e-05,4.2059836375073045,GNSR / EBY,Upregulated,Aminopeptidase I,"K01268 aminopeptidase I [EC:3.4.11.22] | (RefSeq) APE1, API, LAP4, YSC1; metalloaminopeptidase APE1"
+jgi|Sacce1|3740|YKL093W,2.354206382402892,9.156438450241299e-05,4.038273419584069,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) MBR1; Mbr1p
+jgi|Sacce1|5666|YOR019W,2.305235882975736,9.167009140153338e-06,5.037772335627532,GNSR / EBY,Upregulated,,no KO assigned | (RefSeq) uncharacterized protein
+jgi|Sacce1|2509|YGL059W,2.2903780931602116,1.1984613444417561e-05,4.921375969278536,GNSR / EBY,Upregulated,,K00898 pyruvate dehydrogenase kinase 2/3/4 [EC:2.7.11.2] | (RefSeq) PKP2; protein kinase PKP2
+jgi|Sacce1|3917|YKR076W,2.2268237343173958,1.8000181650063058e-05,4.7447231121621405,GNSR / EBY,Upregulated,,"K07393 glutathionyl-hydroquinone reductase [EC:1.8.5.7] | (RefSeq) ECM4, GTO2; S-glutathionyl-(chloro)hydroquinone reductase"
+jgi|Sacce1|5931|YOR273C,2.1795399876597537,2.9116900036194364e-05,4.535854864552677,GNSR / EBY,Upregulated,,"K28028 MFS transporter, DHA1 family, putrescine transporter | (RefSeq) TPO4; Tpo4p"
+jgi|Sacce1|5370|YNL015W,2.1708519702673543,2.2411521103130518e-05,4.649528666254885,GNSR / EBY,Upregulated,,"no KO assigned | (RefSeq) PBI2, LMA1; Pbi2p"
+jgi|Sacce1|1027|YDR008C,2.0932380867906746,8.200586743266553e-05,4.086155073195952,GNSR / EBY,Upregulated,,
+jgi|Sacce1|299|YBR056W,2.041392575341063,6.533591998356534e-07,6.184847989296579,GNSR / EBY,Upregulated,"Glucan 1,3-beta-glucosidase",no KO assigned | (RefSeq) MRX18; 17-beta-hydroxysteroid dehydrogenase-like protein
+jgi|Sacce1|5135|YNL239W,2.022310008400556,1.1521321478289548e-05,4.938497705130298,GNSR / EBY,Upregulated,Bleomycin hydrolase,"K01372 bleomycin hydrolase [EC:3.4.22.40] | (RefSeq) LAP3, BLH1, GAL6, YCP1; bleomycin hydrolase"
